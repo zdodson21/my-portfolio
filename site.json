@@ -85,13 +85,17 @@
       "slug": "page",
       "order": 1,
       "parent": null,
-      "title": "Page",
-      "description": "",
+      "title": "My Experience",
+      "description": "\n",
       "metadata": {
         "created": 1721947597,
-        "updated": 1721947597,
-        "images": [],
-        "videos": []
+        "updated": 1721948018,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1
       }
     }
   ]

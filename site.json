@@ -2,24 +2,42 @@
   "id": "4bdfa4f4-1ea7-47d4-91ac-f67feaa8a687",
   "title": "my-portfolio",
   "author": "",
-  "description": "",
+  "description": "own course",
   "license": "by-sa",
   "metadata": {
     "author": {},
     "site": {
-      "settings": {
-        "lang": "en"
-      },
       "name": "my-portfolio",
-      "domain": null,
+      "logo": "assets/banner.jpg",
+      "settings": {
+        "lang": "en-US",
+        "publishPagesOn": true
+      },
       "created": 1721947344,
-      "updated": 1721947344
+      "updated": 1721947344,
+      "git": {
+        "vendor": "github",
+        "branch": "gh-pages"
+      }
     },
     "theme": {
-      "variables": {}
+      "element": "clean-one",
+      "path": "@haxtheweb/clean-one/clean-one.js",
+      "name": "Clean course theme",
+      "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/BlueStyle.svg",
+      "variables": {
+        "icon": "av:library-add",
+        "hexCode": "#3f51b5",
+        "cssVariable": "--simple-colors-default-theme-light-blue-7"
+      }
     },
     "node": {
       "fields": {}
+    },
+    "build": {
+      "version": "9.0.2",
+      "structure": "course",
+      "type": "own"
     }
   },
   "items": [

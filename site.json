@@ -23,7 +23,7 @@
         "gaID": null
       },
       "created": 1721947344,
-      "updated": 1721947388,
+      "updated": 1721947401,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -34,10 +34,10 @@
       "static": {}
     },
     "theme": {
-      "element": "terrible-outlet-themes",
-      "path": "@haxtheweb/terrible-themes/lib/terrible-outlet-themes.js",
-      "name": "Terrible blog",
-      "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
+      "element": "learn-two-theme",
+      "path": "@haxtheweb/learn-two-theme/learn-two-theme.js",
+      "name": "Learn theme",
+      "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/GreyStyle.svg",
       "variables": {
         "image": "",
         "imageAlt": null,

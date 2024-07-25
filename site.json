@@ -5,31 +5,48 @@
   "description": "own course",
   "license": "by-sa",
   "metadata": {
-    "author": {},
+    "author": {
+      "image": "",
+      "name": null,
+      "email": null,
+      "socialLink": null
+    },
     "site": {
       "name": "my-portfolio",
       "logo": "assets/banner.jpg",
       "settings": {
         "lang": "en-US",
-        "publishPagesOn": true
+        "publishPagesOn": true,
+        "pathauto": false,
+        "sw": false,
+        "forceUpgrade": false,
+        "gaID": null
       },
       "created": 1721947344,
-      "updated": 1721947344,
+      "updated": 1721947388,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
-      }
+      },
+      "version": "9.0.2",
+      "domain": null,
+      "tags": null,
+      "static": {}
     },
     "theme": {
-      "element": "clean-one",
-      "path": "@haxtheweb/clean-one/clean-one.js",
-      "name": "Clean course theme",
-      "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/BlueStyle.svg",
+      "element": "terrible-outlet-themes",
+      "path": "@haxtheweb/terrible-themes/lib/terrible-outlet-themes.js",
+      "name": "Terrible blog",
+      "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
       "variables": {
-        "icon": "av:library-add",
+        "image": "",
+        "imageAlt": null,
+        "imageLink": null,
         "hexCode": "#3f51b5",
-        "cssVariable": "--simple-colors-default-theme-light-blue-7"
-      }
+        "cssVariable": "--simple-colors-default-theme-light-blue-7",
+        "icon": "av:library-add"
+      },
+      "regions": {}
     },
     "node": {
       "fields": {}
@@ -55,6 +72,5 @@
         "updated": 1721947344
       }
     }
-  ],
-  "location": "/_sites/my-portfolio/index.html"
+  ]
 }

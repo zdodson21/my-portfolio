@@ -93,6 +93,22 @@
         "images": [],
         "videos": []
       }
+    },
+    {
+      "id": "item-d1a93d24-61bc-4627-ad98-ecb37a309b1c",
+      "indent": 0,
+      "location": "pages/item-d1a93d24-61bc-4627-ad98-ecb37a309b1c/index.html",
+      "slug": "page/page",
+      "order": 0,
+      "parent": "item-38246140-d5f0-4bc5-b3e5-ba9e837bd37e",
+      "title": "Page",
+      "description": "",
+      "metadata": {
+        "created": 1721947599,
+        "updated": 1721947599,
+        "images": [],
+        "videos": []
+      }
     }
   ]
 }

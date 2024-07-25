@@ -93,6 +93,22 @@
         "images": [],
         "videos": []
       }
+    },
+    {
+      "id": "item-8a0bf4c2-769b-42df-bf8f-cbffa47d6bc9",
+      "indent": 0,
+      "location": "pages/item-8a0bf4c2-769b-42df-bf8f-cbffa47d6bc9/index.html",
+      "slug": "page-copy",
+      "order": 2,
+      "parent": null,
+      "title": "Page Copy",
+      "description": "",
+      "metadata": {
+        "created": 1721947606,
+        "updated": 1721947606,
+        "images": [],
+        "videos": []
+      }
     }
   ]
 }

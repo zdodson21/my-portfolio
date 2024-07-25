@@ -23,7 +23,7 @@
         "gaID": null
       },
       "created": 1721947344,
-      "updated": 1721947447,
+      "updated": 1721947462,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -34,9 +34,9 @@
       "static": {}
     },
     "theme": {
-      "element": "haxcms-blank-theme",
-      "path": "@haxtheweb/haxcms-elements/lib/core/themes/haxcms-blank-theme.js",
-      "name": "Blank theme",
+      "element": "outline-player",
+      "path": "@haxtheweb/outline-player/outline-player.js",
+      "name": "Documentation theme",
       "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/GreyStyle.svg",
       "variables": {
         "image": "",

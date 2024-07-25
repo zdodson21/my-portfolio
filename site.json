@@ -1,0 +1,42 @@
+{
+  "id": "4bdfa4f4-1ea7-47d4-91ac-f67feaa8a687",
+  "title": "my-portfolio",
+  "author": "",
+  "description": "",
+  "license": "by-sa",
+  "metadata": {
+    "author": {},
+    "site": {
+      "settings": {
+        "lang": "en"
+      },
+      "name": "my-portfolio",
+      "domain": null,
+      "created": 1721947344,
+      "updated": 1721947344
+    },
+    "theme": {
+      "variables": {}
+    },
+    "node": {
+      "fields": {}
+    }
+  },
+  "items": [
+    {
+      "id": "item-396b7688-8c17-4f74-80ae-6fbe0df740f6",
+      "indent": 0,
+      "location": "pages/item-396b7688-8c17-4f74-80ae-6fbe0df740f6/index.html",
+      "slug": "welcome",
+      "order": 0,
+      "parent": null,
+      "title": "Welcome",
+      "description": "",
+      "metadata": {
+        "created": 1721947344,
+        "updated": 1721947344
+      }
+    }
+  ],
+  "location": "/_sites/my-portfolio/index.html"
+}

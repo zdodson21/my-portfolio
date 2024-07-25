@@ -10,16 +10,18 @@
   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
   
   <item>
-    <title>Welcome</title>
+    <title>Welcome to my portfolio!</title>
     <link>
     /item-396b7688-8c17-4f74-80ae-6fbe0df740f6
     </link>
     <description>
-        <![CDATA[ <p>
+        <![CDATA[ 
+<p>
     To get started, hit the edit pencil on the side.
     Now this content is editable in place so select and delete it to get started!
     If you need to learn more about the HAX editor or HAXcms check out <a href="https://haxtheweb.org/ux-concepts" target="_blank" rel="noopener noreferrer">HAXTheWeb.org</a>!
-</p> ]]>
+</p>
+ ]]>
     </description>
     <category></category>
     <guid>

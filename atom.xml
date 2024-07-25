@@ -2,8 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>my-portfolio</title>
   <link href="/atom.xml" rel="self" />
-  <subtitle></subtitle>
-  <updated>1970-01-20T22:19:07.344Z</updated>
+  <subtitle>own course</subtitle>
+  <updated>1970-01-20T22:19:07.388Z</updated>
   <author>
       <name></name>
   </author>

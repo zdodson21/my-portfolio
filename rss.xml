@@ -3,10 +3,10 @@
 <channel>
   <title>my-portfolio</title>
   <link>/rss.xml</link>
-  <description></description>
+  <description>own course</description>
   <copyright>Copyright (C) 2024 </copyright>
   <language>en-us</language>
-  <lastBuildDate>1970-01-20T22:19:07.344Z</lastBuildDate>
+  <lastBuildDate>1970-01-20T22:19:07.388Z</lastBuildDate>
   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
   
   <item>

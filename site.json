@@ -141,23 +141,6 @@
         "hideInMenu": false,
         "readtime": 1
       }
-    },
-    {
-      "id": "item-bf16ed16-555f-45de-9ea3-42fe526ef3b7",
-      "indent": 1,
-      "location": "pages/item-bf16ed16-555f-45de-9ea3-42fe526ef3b7/index.html",
-      "slug": "page/new-item",
-      "order": 2,
-      "parent": "item-38246140-d5f0-4bc5-b3e5-ba9e837bd37e",
-      "title": "New item",
-      "description": "",
-      "metadata": {
-        "locked": false,
-        "created": 1721954901,
-        "images": [],
-        "videos": [],
-        "updated": 1721954901
-      }
     }
   ]
 }

@@ -105,13 +105,17 @@
       "slug": "page/page",
       "order": 0,
       "parent": "item-38246140-d5f0-4bc5-b3e5-ba9e837bd37e",
-      "title": "Page",
-      "description": "",
+      "title": "Work Experience",
+      "description": "\n",
       "metadata": {
         "created": 1721954844,
-        "updated": 1721954844,
-        "images": [],
-        "videos": []
+        "updated": 1721954866,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1
       }
     }
   ]

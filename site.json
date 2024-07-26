@@ -2,7 +2,7 @@
   "id": "4bdfa4f4-1ea7-47d4-91ac-f67feaa8a687",
   "title": "my-portfolio",
   "author": "",
-  "description": "own course",
+  "description": "Zach Dodson's Portfolio",
   "license": "by-sa",
   "metadata": {
     "author": {
@@ -23,7 +23,7 @@
         "gaID": null
       },
       "created": 1721947344,
-      "updated": 1721955054,
+      "updated": 1721955104,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"

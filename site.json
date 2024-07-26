@@ -97,6 +97,22 @@
         "locked": false,
         "readtime": 1
       }
+    },
+    {
+      "id": "item-b59e4411-775f-43bb-8fad-d2e0de9ec56d",
+      "indent": 0,
+      "location": "pages/item-b59e4411-775f-43bb-8fad-d2e0de9ec56d/index.html",
+      "slug": "page-1",
+      "order": 2,
+      "parent": null,
+      "title": "Page",
+      "description": "",
+      "metadata": {
+        "created": 1721954835,
+        "updated": 1721954835,
+        "images": [],
+        "videos": []
+      }
     }
   ]
 }

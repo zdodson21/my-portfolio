@@ -1,7 +1,7 @@
 {
     "name": "my-portfolio",
     "short_name": "my-portfolio",
-    "description": "own course",
+    "description": "Zach Dodson's Portfolio",
     "icons": [
         {
             "src": "assets/banner.jpg",

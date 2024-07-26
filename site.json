@@ -23,7 +23,7 @@
         "gaID": null
       },
       "created": 1721947344,
-      "updated": 1721955292,
+      "updated": 1721955302,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -69,7 +69,7 @@
       "description": "\n    To get started, hit the edit pencil on the side.\n    Now this content is editable in place so select and delete it to get started!\n    If you need to learn more about the HAX editor or HAXcms ch",
       "metadata": {
         "created": 1721947344,
-        "updated": 1721955292,
+        "updated": 1721955302,
         "published": true,
         "hideInMenu": false,
         "locked": false,
@@ -90,7 +90,7 @@
       "description": "\n",
       "metadata": {
         "created": 1721947597,
-        "updated": 1721955292,
+        "updated": 1721955302,
         "images": {},
         "videos": {},
         "published": true,
@@ -111,7 +111,7 @@
       "description": "\n",
       "metadata": {
         "created": 1721954844,
-        "updated": 1721955292,
+        "updated": 1721955302,
         "images": {},
         "videos": {},
         "published": true,
@@ -135,7 +135,9 @@
         "created": 1721955292,
         "images": [],
         "videos": [],
-        "updated": 1721955292
+        "updated": 1721955302,
+        "published": true,
+        "status": ""
       }
     },
     {
@@ -149,7 +151,7 @@
       "description": "\n",
       "metadata": {
         "created": 1721954870,
-        "updated": 1721955292,
+        "updated": 1721955302,
         "images": {},
         "videos": {},
         "published": true,

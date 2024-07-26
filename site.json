@@ -123,21 +123,23 @@
     },
     {
       "id": "item-7cb3fab8-f0e3-4854-87e0-c891fd35033d",
-      "indent": 1,
+      "indent": 0,
       "location": "pages/item-7cb3fab8-f0e3-4854-87e0-c891fd35033d/index.html",
       "slug": "page/new-item",
       "order": 1,
       "parent": "item-38246140-d5f0-4bc5-b3e5-ba9e837bd37e",
-      "title": "New item",
-      "description": "",
+      "title": "Education",
+      "description": "\n",
       "metadata": {
         "locked": false,
         "created": 1721955292,
-        "images": [],
-        "videos": [],
-        "updated": 1721955302,
+        "images": {},
+        "videos": {},
+        "updated": 1721955309,
         "published": true,
-        "status": ""
+        "status": "",
+        "hideInMenu": false,
+        "readtime": 1
       }
     },
     {

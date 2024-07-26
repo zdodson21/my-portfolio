@@ -23,7 +23,7 @@
         "gaID": null
       },
       "created": 1721947344,
-      "updated": 1721955260,
+      "updated": 1721955292,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -69,7 +69,7 @@
       "description": "\n    To get started, hit the edit pencil on the side.\n    Now this content is editable in place so select and delete it to get started!\n    If you need to learn more about the HAX editor or HAXcms ch",
       "metadata": {
         "created": 1721947344,
-        "updated": 1721955260,
+        "updated": 1721955292,
         "published": true,
         "hideInMenu": false,
         "locked": false,
@@ -90,7 +90,7 @@
       "description": "\n",
       "metadata": {
         "created": 1721947597,
-        "updated": 1721955260,
+        "updated": 1721955292,
         "images": {},
         "videos": {},
         "published": true,
@@ -111,7 +111,7 @@
       "description": "\n",
       "metadata": {
         "created": 1721954844,
-        "updated": 1721955260,
+        "updated": 1721955292,
         "images": {},
         "videos": {},
         "published": true,
@@ -119,6 +119,23 @@
         "locked": false,
         "readtime": 1,
         "status": ""
+      }
+    },
+    {
+      "id": "item-7cb3fab8-f0e3-4854-87e0-c891fd35033d",
+      "indent": 1,
+      "location": "pages/item-7cb3fab8-f0e3-4854-87e0-c891fd35033d/index.html",
+      "slug": "page/new-item",
+      "order": 1,
+      "parent": "item-38246140-d5f0-4bc5-b3e5-ba9e837bd37e",
+      "title": "New item",
+      "description": "",
+      "metadata": {
+        "locked": false,
+        "created": 1721955292,
+        "images": [],
+        "videos": [],
+        "updated": 1721955292
       }
     },
     {
@@ -132,7 +149,7 @@
       "description": "\n",
       "metadata": {
         "created": 1721954870,
-        "updated": 1721955260,
+        "updated": 1721955292,
         "images": {},
         "videos": {},
         "published": true,

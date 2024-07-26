@@ -117,6 +117,22 @@
         "locked": false,
         "readtime": 1
       }
+    },
+    {
+      "id": "item-b49cf5f3-67f2-4482-afc4-bbe87ab3fc1f",
+      "indent": 0,
+      "location": "pages/item-b49cf5f3-67f2-4482-afc4-bbe87ab3fc1f/index.html",
+      "slug": "page/page-1",
+      "order": 0,
+      "parent": "item-38246140-d5f0-4bc5-b3e5-ba9e837bd37e",
+      "title": "Page",
+      "description": "",
+      "metadata": {
+        "created": 1721954870,
+        "updated": 1721954870,
+        "images": [],
+        "videos": []
+      }
     }
   ]
 }

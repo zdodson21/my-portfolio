@@ -15,5 +15,8 @@
     "start": "npm run dev",
     "dev": "npx @haxtheweb/haxcms-nodejs",
     "dev-theme": "cd custom && npm start"
+  },
+  "dependencies": {
+    "@essential-component-toolbox/my-external-links": "^1.0.7"
   }
 }

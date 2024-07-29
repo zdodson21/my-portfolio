@@ -6,3 +6,6 @@
 // https://github.com/elmsln/haxtheweb/blob/master/elements/example-haxcms-theme/example-haxcms-theme.js
 // don't import that directory, we'd recommend copy and pasting it in here or
 // creating your own theme based on it
+
+
+import '@essential-component-toolbox/my-external-links/src/my-external-links.js';

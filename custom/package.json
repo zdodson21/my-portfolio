@@ -11,9 +11,6 @@
     "start": "yarn run watch",
     "watch": "rollup --watch -c rollup.config.js"
   },
-  "dependencies": {
-    "@essential-component-toolbox/my-external-links": "^1.0.7"
-  },
   "devDependencies": {
     "@babel/core": "^7.3.3",
     "@babel/plugin-syntax-dynamic-import": "^7.2.0",

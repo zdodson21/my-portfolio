@@ -8,4 +8,4 @@
 // creating your own theme based on it
 
 
-import '@essential-component-toolbox/my-external-links/src/my-external-links.js';
+import "@essential-component-toolbox/my-external-links/src/my-external-links.js";

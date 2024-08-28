@@ -137,25 +137,6 @@
         "published": true,
         "status": ""
       }
-    },
-    {
-      "id": "item-230dc4a0-d0fc-4e72-965f-52386028e93a",
-      "indent": 0,
-      "location": "pages/item-230dc4a0-d0fc-4e72-965f-52386028e93a/index.html",
-      "slug": "page-1/chat-agent-web-component-for-haxtheweb",
-      "order": 2,
-      "parent": null,
-      "title": "Chat Agent Web Component for HAXTheWeb",
-      "description": "",
-      "metadata": {
-        "locked": false,
-        "created": 1721956328,
-        "images": [],
-        "videos": [],
-        "updated": 1724869449,
-        "published": true,
-        "status": ""
-      }
     }
   ]
 }

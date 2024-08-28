@@ -87,15 +87,17 @@
       "order": 1,
       "parent": null,
       "title": "My Experience",
-      "description": "",
+      "description": "I have gained skills and experience through numerous sources, with the most important of those sources being projects and other times I can learn in a practical manner. I believe the best way to lear",
       "metadata": {
         "locked": false,
         "created": 1724869480,
-        "images": [],
-        "videos": [],
-        "updated": 1724869564,
+        "images": {},
+        "videos": {},
+        "updated": 1724873452,
         "published": true,
-        "status": ""
+        "status": "",
+        "hideInMenu": false,
+        "readtime": 1
       }
     },
     {

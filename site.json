@@ -23,7 +23,7 @@
         "gaID": null
       },
       "created": 1721947344,
-      "updated": 1724869318,
+      "updated": 1724869351,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -69,7 +69,7 @@
       "description": "\n    To get started, hit the edit pencil on the side.\n    Now this content is editable in place so select and delete it to get started!\n    If you need to learn more about the HAX editor or HAXcms ch",
       "metadata": {
         "created": 1721947344,
-        "updated": 1724869318,
+        "updated": 1724869351,
         "published": true,
         "hideInMenu": false,
         "locked": false,
@@ -90,7 +90,7 @@
       "description": "\n",
       "metadata": {
         "created": 1721947597,
-        "updated": 1724869318,
+        "updated": 1724869351,
         "images": {},
         "videos": {},
         "published": true,
@@ -111,7 +111,7 @@
       "description": "\n",
       "metadata": {
         "created": 1721954844,
-        "updated": 1724869318,
+        "updated": 1724869351,
         "images": {},
         "videos": {},
         "published": true,
@@ -135,7 +135,7 @@
         "created": 1721955292,
         "images": {},
         "videos": {},
-        "updated": 1724869318,
+        "updated": 1724869351,
         "published": true,
         "status": "",
         "hideInMenu": false,
@@ -149,14 +149,16 @@
       "slug": "page/new-item-1",
       "order": 2,
       "parent": "item-38246140-d5f0-4bc5-b3e5-ba9e837bd37e",
-      "title": "New item",
+      "title": "Projects I Have Contributed To",
       "description": "",
       "metadata": {
         "locked": false,
         "created": 1724869318,
         "images": [],
         "videos": [],
-        "updated": 1724869318
+        "updated": 1724869351,
+        "published": true,
+        "status": ""
       }
     },
     {
@@ -170,7 +172,7 @@
       "description": "\n",
       "metadata": {
         "created": 1721954870,
-        "updated": 1724869318,
+        "updated": 1724869351,
         "images": {},
         "videos": {},
         "published": true,
@@ -191,7 +193,7 @@
       "description": "",
       "metadata": {
         "created": 1721956254,
-        "updated": 1724869318,
+        "updated": 1724869351,
         "images": [],
         "videos": [],
         "published": true,
@@ -213,7 +215,7 @@
         "created": 1721956328,
         "images": [],
         "videos": [],
-        "updated": 1724869318,
+        "updated": 1724869351,
         "published": true,
         "status": ""
       }

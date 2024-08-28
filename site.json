@@ -69,7 +69,7 @@
       "description": "\n    To get started, hit the edit pencil on the side.\n    Now this content is editable in place so select and delete it to get started!\n    If you need to learn more about the HAX editor or HAXcms ch",
       "metadata": {
         "created": 1721947344,
-        "updated": 1724873626,
+        "updated": 1724873638,
         "published": true,
         "hideInMenu": false,
         "locked": false,
@@ -93,7 +93,7 @@
         "created": 1724869480,
         "images": {},
         "videos": {},
-        "updated": 1724873626,
+        "updated": 1724873639,
         "published": true,
         "status": "",
         "hideInMenu": false,
@@ -114,7 +114,7 @@
         "created": 1724869510,
         "images": {},
         "videos": {},
-        "updated": 1724873626,
+        "updated": 1724873639,
         "published": true,
         "status": "",
         "hideInMenu": false,
@@ -135,7 +135,7 @@
         "created": 1724869564,
         "images": {},
         "videos": {},
-        "updated": 1724873626,
+        "updated": 1724873639,
         "published": true,
         "hideInMenu": false,
         "readtime": 1,
@@ -156,29 +156,10 @@
         "created": 1724869564,
         "images": {},
         "videos": {},
-        "updated": 1724873626,
+        "updated": 1724873639,
         "published": true,
         "hideInMenu": false,
         "readtime": 1,
-        "status": ""
-      }
-    },
-    {
-      "id": "item-5b0d7b4e-2570-4c32-87dd-7aba81f6ace8",
-      "indent": 0,
-      "location": "pages/item-5b0d7b4e-2570-4c32-87dd-7aba81f6ace8/index.html",
-      "slug": "my-experience/what-have-i-made?",
-      "order": 2,
-      "parent": null,
-      "title": "What Have I Made?",
-      "description": "",
-      "metadata": {
-        "locked": false,
-        "created": 1724873613,
-        "images": [],
-        "videos": [],
-        "updated": 1724873626,
-        "published": true,
         "status": ""
       }
     }

@@ -78,25 +78,6 @@
         "images": {},
         "status": ""
       }
-    },
-    {
-      "id": "item-e236ae68-3522-437f-b303-178e6c0283d0",
-      "indent": 0,
-      "location": "pages/item-e236ae68-3522-437f-b303-178e6c0283d0/index.html",
-      "slug": "page/test-page",
-      "order": 5,
-      "parent": null,
-      "title": "Test Page",
-      "description": "",
-      "metadata": {
-        "locked": false,
-        "created": 1724869418,
-        "images": [],
-        "videos": [],
-        "updated": 1724869449,
-        "published": true,
-        "status": ""
-      }
     }
   ]
 }

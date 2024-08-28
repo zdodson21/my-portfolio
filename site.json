@@ -23,7 +23,7 @@
         "gaID": null
       },
       "created": 1721947344,
-      "updated": 1724873518,
+      "updated": 1724873542,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -69,7 +69,7 @@
       "description": "\n    To get started, hit the edit pencil on the side.\n    Now this content is editable in place so select and delete it to get started!\n    If you need to learn more about the HAX editor or HAXcms ch",
       "metadata": {
         "created": 1721947344,
-        "updated": 1724873518,
+        "updated": 1724873542,
         "published": true,
         "hideInMenu": false,
         "locked": false,
@@ -93,7 +93,7 @@
         "created": 1724869480,
         "images": {},
         "videos": {},
-        "updated": 1724873518,
+        "updated": 1724873542,
         "published": true,
         "status": "",
         "hideInMenu": false,
@@ -114,7 +114,7 @@
         "created": 1724869510,
         "images": {},
         "videos": {},
-        "updated": 1724873518,
+        "updated": 1724873542,
         "published": true,
         "status": "",
         "hideInMenu": false,
@@ -135,7 +135,7 @@
         "created": 1724869564,
         "images": {},
         "videos": {},
-        "updated": 1724873518,
+        "updated": 1724873542,
         "published": true,
         "hideInMenu": false,
         "readtime": 1,
@@ -156,11 +156,28 @@
         "created": 1724869564,
         "images": {},
         "videos": {},
-        "updated": 1724873518,
+        "updated": 1724873542,
         "published": true,
         "hideInMenu": false,
         "readtime": 1,
         "status": ""
+      }
+    },
+    {
+      "id": "item-10d5e548-7546-4c6e-9eae-dadbd15727f6",
+      "indent": 1,
+      "location": "pages/item-10d5e548-7546-4c6e-9eae-dadbd15727f6/index.html",
+      "slug": "my-experience/what-do-i-hope-to-make?",
+      "order": 3,
+      "parent": "item-f66cfffe-20bd-470a-8cc4-eebe1936c320",
+      "title": "What Do I Hope to Make?",
+      "description": "",
+      "metadata": {
+        "locked": false,
+        "created": 1724873542,
+        "images": [],
+        "videos": [],
+        "updated": 1724873542
       }
     }
   ]

@@ -158,25 +158,6 @@
       }
     },
     {
-      "id": "item-8c191f6a-5f52-4b72-a303-0c77ebacc1d9",
-      "indent": 1,
-      "location": "pages/item-8c191f6a-5f52-4b72-a303-0c77ebacc1d9/index.html",
-      "slug": "page-1/page",
-      "order": 6,
-      "parent": null,
-      "title": "About This Portfolio",
-      "description": "",
-      "metadata": {
-        "created": 1721956254,
-        "updated": 1724869418,
-        "images": [],
-        "videos": [],
-        "published": true,
-        "locked": false,
-        "status": ""
-      }
-    },
-    {
       "id": "item-230dc4a0-d0fc-4e72-965f-52386028e93a",
       "indent": 1,
       "location": "pages/item-230dc4a0-d0fc-4e72-965f-52386028e93a/index.html",

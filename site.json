@@ -158,33 +158,12 @@
       }
     },
     {
-      "id": "item-b49cf5f3-67f2-4482-afc4-bbe87ab3fc1f",
-      "indent": 0,
-      "location": "pages/item-b49cf5f3-67f2-4482-afc4-bbe87ab3fc1f/index.html",
-      "slug": "page/page-1",
-      "order": 2,
-      "parent": null,
-      "title": "My Projects",
-      "description": "\n",
-      "metadata": {
-        "created": 1721954870,
-        "updated": 1724869418,
-        "images": {},
-        "videos": {},
-        "published": true,
-        "locked": false,
-        "status": "",
-        "hideInMenu": false,
-        "readtime": 1
-      }
-    },
-    {
       "id": "item-8c191f6a-5f52-4b72-a303-0c77ebacc1d9",
       "indent": 1,
       "location": "pages/item-8c191f6a-5f52-4b72-a303-0c77ebacc1d9/index.html",
       "slug": "page-1/page",
-      "order": 0,
-      "parent": "item-b49cf5f3-67f2-4482-afc4-bbe87ab3fc1f",
+      "order": 6,
+      "parent": null,
       "title": "About This Portfolio",
       "description": "",
       "metadata": {
@@ -202,8 +181,8 @@
       "indent": 1,
       "location": "pages/item-230dc4a0-d0fc-4e72-965f-52386028e93a/index.html",
       "slug": "page-1/chat-agent-web-component-for-haxtheweb",
-      "order": 1,
-      "parent": "item-b49cf5f3-67f2-4482-afc4-bbe87ab3fc1f",
+      "order": 7,
+      "parent": null,
       "title": "Chat Agent Web Component for HAXTheWeb",
       "description": "",
       "metadata": {

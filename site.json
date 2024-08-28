@@ -23,7 +23,7 @@
         "gaID": null
       },
       "created": 1721947344,
-      "updated": 1721956343,
+      "updated": 1724869318,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -69,7 +69,7 @@
       "description": "\n    To get started, hit the edit pencil on the side.\n    Now this content is editable in place so select and delete it to get started!\n    If you need to learn more about the HAX editor or HAXcms ch",
       "metadata": {
         "created": 1721947344,
-        "updated": 1722288121,
+        "updated": 1724869318,
         "published": true,
         "hideInMenu": false,
         "locked": false,
@@ -90,7 +90,7 @@
       "description": "\n",
       "metadata": {
         "created": 1721947597,
-        "updated": 1721956343,
+        "updated": 1724869318,
         "images": {},
         "videos": {},
         "published": true,
@@ -102,7 +102,7 @@
     },
     {
       "id": "item-ee69f611-878b-4ec3-80b7-91aca7d4f2d8",
-      "indent": 0,
+      "indent": 1,
       "location": "pages/item-ee69f611-878b-4ec3-80b7-91aca7d4f2d8/index.html",
       "slug": "page/page",
       "order": 0,
@@ -111,7 +111,7 @@
       "description": "\n",
       "metadata": {
         "created": 1721954844,
-        "updated": 1721956609,
+        "updated": 1724869318,
         "images": {},
         "videos": {},
         "published": true,
@@ -135,11 +135,28 @@
         "created": 1721955292,
         "images": {},
         "videos": {},
-        "updated": 1721956343,
+        "updated": 1724869318,
         "published": true,
         "status": "",
         "hideInMenu": false,
         "readtime": 1
+      }
+    },
+    {
+      "id": "item-66a52408-8bc0-4cc3-83c0-5b153ab6781f",
+      "indent": 1,
+      "location": "pages/item-66a52408-8bc0-4cc3-83c0-5b153ab6781f/index.html",
+      "slug": "page/new-item-1",
+      "order": 2,
+      "parent": "item-38246140-d5f0-4bc5-b3e5-ba9e837bd37e",
+      "title": "New item",
+      "description": "",
+      "metadata": {
+        "locked": false,
+        "created": 1724869318,
+        "images": [],
+        "videos": [],
+        "updated": 1724869318
       }
     },
     {
@@ -153,7 +170,7 @@
       "description": "\n",
       "metadata": {
         "created": 1721954870,
-        "updated": 1721956343,
+        "updated": 1724869318,
         "images": {},
         "videos": {},
         "published": true,
@@ -174,7 +191,7 @@
       "description": "",
       "metadata": {
         "created": 1721956254,
-        "updated": 1721956343,
+        "updated": 1724869318,
         "images": [],
         "videos": [],
         "published": true,
@@ -196,7 +213,7 @@
         "created": 1721956328,
         "images": [],
         "videos": [],
-        "updated": 1721956343,
+        "updated": 1724869318,
         "published": true,
         "status": ""
       }

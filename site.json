@@ -219,23 +219,6 @@
         "published": true,
         "status": ""
       }
-    },
-    {
-      "id": "item-ffe9162f-9aeb-4b78-804f-e9123c648b5d",
-      "indent": 0,
-      "location": "pages/item-ffe9162f-9aeb-4b78-804f-e9123c648b5d/index.html",
-      "slug": "test-page",
-      "order": 2,
-      "parent": null,
-      "title": "Test Page",
-      "description": "",
-      "metadata": {
-        "locked": false,
-        "created": 1724869394,
-        "images": [],
-        "videos": [],
-        "updated": 1724869394
-      }
     }
   ]
 }

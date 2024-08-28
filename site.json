@@ -23,7 +23,7 @@
         "gaID": null
       },
       "created": 1721947344,
-      "updated": 1724869510,
+      "updated": 1724869564,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -69,7 +69,7 @@
       "description": "\n    To get started, hit the edit pencil on the side.\n    Now this content is editable in place so select and delete it to get started!\n    If you need to learn more about the HAX editor or HAXcms ch",
       "metadata": {
         "created": 1721947344,
-        "updated": 1724869510,
+        "updated": 1724869564,
         "published": true,
         "hideInMenu": false,
         "locked": false,
@@ -93,7 +93,7 @@
         "created": 1724869480,
         "images": [],
         "videos": [],
-        "updated": 1724869510,
+        "updated": 1724869564,
         "published": true,
         "status": ""
       }
@@ -103,7 +103,7 @@
       "indent": 1,
       "location": "pages/item-c8ce68e3-4f43-461c-b991-82faa52ae729/index.html",
       "slug": "my-experience/projects-i-have-contributed-to",
-      "order": 0,
+      "order": 2,
       "parent": "item-f66cfffe-20bd-470a-8cc4-eebe1936c320",
       "title": "Projects I Have Contributed To",
       "description": "",
@@ -112,7 +112,43 @@
         "created": 1724869510,
         "images": [],
         "videos": [],
-        "updated": 1724869510
+        "updated": 1724869564,
+        "published": true,
+        "status": ""
+      }
+    },
+    {
+      "id": "item-2084fc2d-32c4-4e27-b38e-a235a60f7743",
+      "indent": 1,
+      "location": "pages/item-2084fc2d-32c4-4e27-b38e-a235a60f7743/index.html",
+      "slug": "my-experience/work-experience",
+      "order": 0,
+      "parent": "item-f66cfffe-20bd-470a-8cc4-eebe1936c320",
+      "title": "Work Experience",
+      "description": "",
+      "metadata": {
+        "locked": false,
+        "created": 1724869564,
+        "images": [],
+        "videos": [],
+        "updated": 1724869564
+      }
+    },
+    {
+      "id": "item-97e17c8e-b948-45cb-a572-2e09fb1cdb40",
+      "indent": 1,
+      "location": "pages/item-97e17c8e-b948-45cb-a572-2e09fb1cdb40/index.html",
+      "slug": "my-experience/education",
+      "order": 1,
+      "parent": "item-f66cfffe-20bd-470a-8cc4-eebe1936c320",
+      "title": "Education",
+      "description": "",
+      "metadata": {
+        "locked": false,
+        "created": 1724869564,
+        "images": [],
+        "videos": [],
+        "updated": 1724869564
       }
     }
   ]

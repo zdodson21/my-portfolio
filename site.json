@@ -80,25 +80,6 @@
       }
     },
     {
-      "id": "item-66a52408-8bc0-4cc3-83c0-5b153ab6781f",
-      "indent": 0,
-      "location": "pages/item-66a52408-8bc0-4cc3-83c0-5b153ab6781f/index.html",
-      "slug": "page/new-item-1",
-      "order": 4,
-      "parent": null,
-      "title": "Projects I Have Contributed To",
-      "description": "",
-      "metadata": {
-        "locked": false,
-        "created": 1724869318,
-        "images": [],
-        "videos": [],
-        "updated": 1724869449,
-        "published": true,
-        "status": ""
-      }
-    },
-    {
       "id": "item-e236ae68-3522-437f-b303-178e6c0283d0",
       "indent": 0,
       "location": "pages/item-e236ae68-3522-437f-b303-178e6c0283d0/index.html",

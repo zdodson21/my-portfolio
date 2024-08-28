@@ -69,43 +69,22 @@
       "description": "\n    To get started, hit the edit pencil on the side.\n    Now this content is editable in place so select and delete it to get started!\n    If you need to learn more about the HAX editor or HAXcms ch",
       "metadata": {
         "created": 1721947344,
-        "updated": 1724869418,
+        "updated": 1724869449,
         "published": true,
         "hideInMenu": false,
         "locked": false,
         "readtime": 1,
         "videos": {},
         "images": {},
-        "status": ""
-      }
-    },
-    {
-      "id": "item-ee69f611-878b-4ec3-80b7-91aca7d4f2d8",
-      "indent": 1,
-      "location": "pages/item-ee69f611-878b-4ec3-80b7-91aca7d4f2d8/index.html",
-      "slug": "page/page",
-      "order": 7,
-      "parent": null,
-      "title": "Work Experience",
-      "description": "\n",
-      "metadata": {
-        "created": 1721954844,
-        "updated": 1724869418,
-        "images": {},
-        "videos": {},
-        "published": true,
-        "hideInMenu": false,
-        "locked": false,
-        "readtime": 1,
         "status": ""
       }
     },
     {
       "id": "item-7cb3fab8-f0e3-4854-87e0-c891fd35033d",
-      "indent": 1,
+      "indent": 0,
       "location": "pages/item-7cb3fab8-f0e3-4854-87e0-c891fd35033d/index.html",
       "slug": "page/new-item",
-      "order": 8,
+      "order": 3,
       "parent": null,
       "title": "Education",
       "description": "\n",
@@ -114,7 +93,7 @@
         "created": 1721955292,
         "images": {},
         "videos": {},
-        "updated": 1724869418,
+        "updated": 1724869449,
         "published": true,
         "status": "",
         "hideInMenu": false,
@@ -123,10 +102,10 @@
     },
     {
       "id": "item-66a52408-8bc0-4cc3-83c0-5b153ab6781f",
-      "indent": 1,
+      "indent": 0,
       "location": "pages/item-66a52408-8bc0-4cc3-83c0-5b153ab6781f/index.html",
       "slug": "page/new-item-1",
-      "order": 9,
+      "order": 4,
       "parent": null,
       "title": "Projects I Have Contributed To",
       "description": "",
@@ -135,17 +114,17 @@
         "created": 1724869318,
         "images": [],
         "videos": [],
-        "updated": 1724869418,
+        "updated": 1724869449,
         "published": true,
         "status": ""
       }
     },
     {
       "id": "item-e236ae68-3522-437f-b303-178e6c0283d0",
-      "indent": 1,
+      "indent": 0,
       "location": "pages/item-e236ae68-3522-437f-b303-178e6c0283d0/index.html",
       "slug": "page/test-page",
-      "order": 10,
+      "order": 5,
       "parent": null,
       "title": "Test Page",
       "description": "",
@@ -154,15 +133,17 @@
         "created": 1724869418,
         "images": [],
         "videos": [],
-        "updated": 1724869418
+        "updated": 1724869449,
+        "published": true,
+        "status": ""
       }
     },
     {
       "id": "item-230dc4a0-d0fc-4e72-965f-52386028e93a",
-      "indent": 1,
+      "indent": 0,
       "location": "pages/item-230dc4a0-d0fc-4e72-965f-52386028e93a/index.html",
       "slug": "page-1/chat-agent-web-component-for-haxtheweb",
-      "order": 7,
+      "order": 2,
       "parent": null,
       "title": "Chat Agent Web Component for HAXTheWeb",
       "description": "",
@@ -171,7 +152,7 @@
         "created": 1721956328,
         "images": [],
         "videos": [],
-        "updated": 1724869418,
+        "updated": 1724869449,
         "published": true,
         "status": ""
       }

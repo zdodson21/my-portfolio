@@ -23,12 +23,12 @@
         "gaID": null
       },
       "created": 1721947344,
-      "updated": 1724937476,
+      "updated": 1724939146,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
       },
-      "version": "9.0.2",
+      "version": "9.0.5",
       "domain": null,
       "tags": null,
       "static": {}
@@ -43,7 +43,7 @@
         "imageAlt": null,
         "imageLink": null,
         "hexCode": "#3f51b5",
-        "cssVariable": "--simple-colors-default-theme-light-blue-7",
+        "cssVariable": "--simple-colors-default-theme-grey-7",
         "icon": "av:library-add"
       },
       "regions": {}

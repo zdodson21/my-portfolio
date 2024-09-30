@@ -186,19 +186,22 @@
     },
     {
       "id": "item-d4409fa7-108d-430a-9244-45408a1411e5",
-      "indent": 1,
+      "indent": 0,
       "location": "pages/item-d4409fa7-108d-430a-9244-45408a1411e5/index.html",
       "slug": "my-experience/the-tools-i-use",
       "order": 4,
       "parent": "item-f66cfffe-20bd-470a-8cc4-eebe1936c320",
       "title": "The Tools I Use",
-      "description": "",
+      "description": "Development:\nWeb ​Development:HTML CSSSCSS ​(minimal ​experience)JavaScriptLitOpenWCVSCodeVercel ​(Web ​Hosting)GitGitHubGitLab ​(minimal)\n",
       "metadata": {
         "locked": false,
         "created": 1724939511,
-        "images": [],
-        "videos": [],
-        "updated": 1724939511
+        "images": {},
+        "videos": {},
+        "updated": 1727720281,
+        "published": true,
+        "hideInMenu": false,
+        "readtime": 1
       }
     }
   ]

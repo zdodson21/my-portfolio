@@ -144,7 +144,7 @@
     },
     {
       "id": "item-97e17c8e-b948-45cb-a572-2e09fb1cdb40",
-      "indent": 1,
+      "indent": 0,
       "location": "pages/item-97e17c8e-b948-45cb-a572-2e09fb1cdb40/index.html",
       "slug": "my-experience/education",
       "order": 1,
@@ -156,7 +156,7 @@
         "created": 1724869564,
         "images": {},
         "videos": {},
-        "updated": 1724939511,
+        "updated": 1727719310,
         "published": true,
         "hideInMenu": false,
         "readtime": 1,

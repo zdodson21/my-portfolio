@@ -102,7 +102,7 @@
     },
     {
       "id": "item-c8ce68e3-4f43-461c-b991-82faa52ae729",
-      "indent": 1,
+      "indent": 0,
       "location": "pages/item-c8ce68e3-4f43-461c-b991-82faa52ae729/index.html",
       "slug": "my-experience/projects-i-have-contributed-to",
       "order": 2,
@@ -114,7 +114,7 @@
         "created": 1724869510,
         "images": {},
         "videos": {},
-        "updated": 1728245292,
+        "updated": 1728245382,
         "published": true,
         "status": "",
         "hideInMenu": false,

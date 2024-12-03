@@ -23,20 +23,20 @@
         "gaID": null
       },
       "created": 1721947344,
-      "updated": 1728247590,
+      "updated": 1733237207,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
       },
-      "version": "9.0.5",
+      "version": "9.0.21",
       "domain": null,
       "tags": null,
       "static": {}
     },
     "theme": {
-      "element": "polaris-invent-theme",
-      "path": "@haxtheweb/polaris-theme/lib/polaris-invent-theme.js",
-      "name": "Polaris - Invent",
+      "element": "clean-two",
+      "path": "@haxtheweb/clean-two/clean-two.js",
+      "name": "Clean two theme",
       "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
       "variables": {
         "image": "",

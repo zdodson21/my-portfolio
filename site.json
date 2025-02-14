@@ -23,7 +23,7 @@
         "gaID": null
       },
       "created": 1721947344,
-      "updated": 1739552558,
+      "updated": 1739552815,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -69,7 +69,7 @@
       "description": "\n    To get started, hit the edit pencil on the side.\n    Now this content is editable in place so select and delete it to get started!\n    If you need to learn more about the HAX editor or HAXcms ch",
       "metadata": {
         "created": 1721947344,
-        "updated": 1739552558,
+        "updated": 1739552815,
         "published": true,
         "hideInMenu": false,
         "locked": false,
@@ -93,7 +93,7 @@
         "created": 1739550283,
         "images": {},
         "videos": {},
-        "updated": 1739552558,
+        "updated": 1739552815,
         "published": true,
         "status": "",
         "hideInMenu": false,
@@ -114,7 +114,7 @@
         "created": 1739550422,
         "images": {},
         "videos": {},
-        "updated": 1739552558,
+        "updated": 1739552815,
         "published": true,
         "status": "",
         "hideInMenu": false,
@@ -135,7 +135,7 @@
         "created": 1739551246,
         "images": [],
         "videos": [],
-        "updated": 1739552558,
+        "updated": 1739552815,
         "published": true,
         "status": ""
       }
@@ -154,9 +154,26 @@
         "created": 1739551627,
         "images": [],
         "videos": [],
-        "updated": 1739552558,
+        "updated": 1739552815,
         "published": true,
         "status": ""
+      }
+    },
+    {
+      "id": "item-bfa17739-43ce-449e-8c36-35452045f493",
+      "indent": 2,
+      "location": "pages/item-bfa17739-43ce-449e-8c36-35452045f493/index.html",
+      "slug": "projects/web-development/other",
+      "order": 2,
+      "parent": "item-16a6f84f-cb3b-4126-989a-a71ad175bcb7",
+      "title": "Other",
+      "description": "",
+      "metadata": {
+        "locked": false,
+        "created": 1739552815,
+        "images": [],
+        "videos": [],
+        "updated": 1739552815
       }
     },
     {
@@ -173,7 +190,7 @@
         "created": 1739550492,
         "images": [],
         "videos": [],
-        "updated": 1739552558,
+        "updated": 1739552815,
         "published": true,
         "status": ""
       }
@@ -192,7 +209,7 @@
         "created": 1739552458,
         "images": [],
         "videos": [],
-        "updated": 1739552558,
+        "updated": 1739552815,
         "published": true,
         "status": ""
       }
@@ -211,7 +228,9 @@
         "created": 1739552558,
         "images": [],
         "videos": [],
-        "updated": 1739552558
+        "updated": 1739552815,
+        "published": true,
+        "status": ""
       }
     },
     {
@@ -228,7 +247,7 @@
         "created": 1739550492,
         "images": {},
         "videos": {},
-        "updated": 1739552558,
+        "updated": 1739552815,
         "published": true,
         "status": "",
         "hideInMenu": false,
@@ -249,7 +268,7 @@
         "created": 1739552297,
         "images": [],
         "videos": [],
-        "updated": 1739552558,
+        "updated": 1739552815,
         "published": true,
         "status": ""
       }
@@ -268,7 +287,7 @@
         "created": 1739552384,
         "images": [],
         "videos": [],
-        "updated": 1739552558,
+        "updated": 1739552815,
         "published": true,
         "status": ""
       }
@@ -287,7 +306,7 @@
         "created": 1739552384,
         "images": [],
         "videos": [],
-        "updated": 1739552558,
+        "updated": 1739552815,
         "published": true,
         "status": ""
       }
@@ -306,7 +325,7 @@
         "created": 1739550283,
         "images": {},
         "videos": {},
-        "updated": 1739552558,
+        "updated": 1739552815,
         "published": true,
         "status": "",
         "hideInMenu": false,
@@ -327,7 +346,7 @@
         "created": 1739550328,
         "images": {},
         "videos": {},
-        "updated": 1739552558,
+        "updated": 1739552815,
         "published": true,
         "status": "",
         "hideInMenu": false,
@@ -348,7 +367,7 @@
         "created": 1739551108,
         "images": [],
         "videos": [],
-        "updated": 1739552558,
+        "updated": 1739552815,
         "published": true,
         "status": ""
       }

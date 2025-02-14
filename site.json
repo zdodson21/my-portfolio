@@ -364,25 +364,6 @@
       }
     },
     {
-      "id": "item-fcdcddfd-8c02-42c3-b7cd-250a64b85a68",
-      "indent": 2,
-      "location": "pages/item-fcdcddfd-8c02-42c3-b7cd-250a64b85a68/index.html",
-      "slug": "projects/graphic-design/wynncraft-physical-collection",
-      "order": 0,
-      "parent": "item-6c66e23b-d6f5-45f0-b9ac-37be74b25125",
-      "title": "Wynncraft Physical Collection",
-      "description": "",
-      "metadata": {
-        "locked": false,
-        "created": 1739551348,
-        "images": [],
-        "videos": [],
-        "updated": 1739552342,
-        "published": true,
-        "status": ""
-      }
-    },
-    {
       "id": "item-f74522b3-aa23-4c0f-9947-251278dd016c",
       "indent": 2,
       "location": "pages/item-f74522b3-aa23-4c0f-9947-251278dd016c/index.html",

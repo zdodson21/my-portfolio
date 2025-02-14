@@ -206,25 +206,6 @@
       }
     },
     {
-      "id": "item-b016784e-e014-4416-a8ed-6fabd13c7458",
-      "indent": 0,
-      "location": "pages/item-b016784e-e014-4416-a8ed-6fabd13c7458/index.html",
-      "slug": "welcome-1",
-      "order": 0,
-      "parent": null,
-      "title": "Welcome",
-      "description": "",
-      "metadata": {
-        "locked": false,
-        "created": 1739550222,
-        "images": [],
-        "videos": [],
-        "updated": 1739551108,
-        "published": true,
-        "status": ""
-      }
-    },
-    {
       "id": "item-4b3d6e54-0add-4275-95ae-1077dead1de8",
       "indent": 0,
       "location": "pages/item-4b3d6e54-0add-4275-95ae-1077dead1de8/index.html",

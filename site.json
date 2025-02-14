@@ -23,7 +23,7 @@
         "gaID": null
       },
       "created": 1721947344,
-      "updated": 1739552298,
+      "updated": 1739552342,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -345,6 +345,25 @@
       }
     },
     {
+      "id": "item-6c66e23b-d6f5-45f0-b9ac-37be74b25125",
+      "indent": 1,
+      "location": "pages/item-6c66e23b-d6f5-45f0-b9ac-37be74b25125/index.html",
+      "slug": "projects/graphic-design-&-visual-arts",
+      "order": 1,
+      "parent": "item-4b3d6e54-0add-4275-95ae-1077dead1de8",
+      "title": "Graphic Design & Visual Arts",
+      "description": "",
+      "metadata": {
+        "locked": false,
+        "created": 1739552297,
+        "images": [],
+        "videos": [],
+        "updated": 1739552342,
+        "published": true,
+        "status": ""
+      }
+    },
+    {
       "id": "item-fcdcddfd-8c02-42c3-b7cd-250a64b85a68",
       "indent": 2,
       "location": "pages/item-fcdcddfd-8c02-42c3-b7cd-250a64b85a68/index.html",
@@ -375,25 +394,6 @@
       "metadata": {
         "locked": false,
         "created": 1739552245,
-        "images": [],
-        "videos": [],
-        "updated": 1739552342,
-        "published": true,
-        "status": ""
-      }
-    },
-    {
-      "id": "item-6c66e23b-d6f5-45f0-b9ac-37be74b25125",
-      "indent": 1,
-      "location": "pages/item-6c66e23b-d6f5-45f0-b9ac-37be74b25125/index.html",
-      "slug": "projects/graphic-design-&-visual-arts",
-      "order": 1,
-      "parent": "item-4b3d6e54-0add-4275-95ae-1077dead1de8",
-      "title": "Graphic Design & Visual Arts",
-      "description": "",
-      "metadata": {
-        "locked": false,
-        "created": 1739552297,
         "images": [],
         "videos": [],
         "updated": 1739552342,

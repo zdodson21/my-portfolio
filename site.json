@@ -23,7 +23,7 @@
         "gaID": null
       },
       "created": 1721947344,
-      "updated": 1739552384,
+      "updated": 1739552458,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -69,7 +69,7 @@
       "description": "\n    To get started, hit the edit pencil on the side.\n    Now this content is editable in place so select and delete it to get started!\n    If you need to learn more about the HAX editor or HAXcms ch",
       "metadata": {
         "created": 1721947344,
-        "updated": 1739552384,
+        "updated": 1739552458,
         "published": true,
         "hideInMenu": false,
         "locked": false,
@@ -93,7 +93,7 @@
         "created": 1724869510,
         "images": {},
         "videos": {},
-        "updated": 1739552384,
+        "updated": 1739552458,
         "published": true,
         "status": "",
         "hideInMenu": false,
@@ -114,7 +114,7 @@
         "created": 1724869564,
         "images": {},
         "videos": {},
-        "updated": 1739552384,
+        "updated": 1739552458,
         "published": true,
         "hideInMenu": false,
         "readtime": 1,
@@ -135,7 +135,7 @@
         "created": 1724869564,
         "images": {},
         "videos": {},
-        "updated": 1739552384,
+        "updated": 1739552458,
         "published": true,
         "hideInMenu": false,
         "readtime": 1,
@@ -156,7 +156,7 @@
         "created": 1724937476,
         "images": {},
         "videos": {},
-        "updated": 1739552384,
+        "updated": 1739552458,
         "published": true,
         "status": "",
         "hideInMenu": false,
@@ -177,7 +177,7 @@
         "created": 1724939511,
         "images": {},
         "videos": {},
-        "updated": 1739552384,
+        "updated": 1739552458,
         "published": true,
         "hideInMenu": false,
         "readtime": 1,
@@ -195,7 +195,7 @@
       "description": "\n",
       "metadata": {
         "created": 1733237875,
-        "updated": 1739552384,
+        "updated": 1739552458,
         "images": {},
         "videos": {},
         "published": true,
@@ -219,7 +219,7 @@
         "created": 1739550283,
         "images": {},
         "videos": {},
-        "updated": 1739552384,
+        "updated": 1739552458,
         "published": true,
         "status": "",
         "hideInMenu": false,
@@ -240,7 +240,7 @@
         "created": 1739550422,
         "images": {},
         "videos": {},
-        "updated": 1739552384,
+        "updated": 1739552458,
         "published": true,
         "status": "",
         "hideInMenu": false,
@@ -261,7 +261,7 @@
         "created": 1739551246,
         "images": [],
         "videos": [],
-        "updated": 1739552384,
+        "updated": 1739552458,
         "published": true,
         "status": ""
       }
@@ -280,7 +280,7 @@
         "created": 1739551627,
         "images": [],
         "videos": [],
-        "updated": 1739552384,
+        "updated": 1739552458,
         "published": true,
         "status": ""
       }
@@ -299,7 +299,7 @@
         "created": 1739552225,
         "images": [],
         "videos": [],
-        "updated": 1739552384,
+        "updated": 1739552458,
         "published": true,
         "status": ""
       }
@@ -318,9 +318,26 @@
         "created": 1739550492,
         "images": [],
         "videos": [],
-        "updated": 1739552384,
+        "updated": 1739552458,
         "published": true,
         "status": ""
+      }
+    },
+    {
+      "id": "item-279faec4-5529-48c6-87f2-19acc288bed5",
+      "indent": 2,
+      "location": "pages/item-279faec4-5529-48c6-87f2-19acc288bed5/index.html",
+      "slug": "projects/technology-integration/home-technology-integration",
+      "order": 0,
+      "parent": "item-fc929f86-a2f9-4cac-8dbe-327b1eb1705e",
+      "title": "Home Technology Integration",
+      "description": "",
+      "metadata": {
+        "locked": false,
+        "created": 1739552458,
+        "images": [],
+        "videos": [],
+        "updated": 1739552458
       }
     },
     {
@@ -337,7 +354,7 @@
         "created": 1739550492,
         "images": {},
         "videos": {},
-        "updated": 1739552384,
+        "updated": 1739552458,
         "published": true,
         "status": "",
         "hideInMenu": false,
@@ -358,7 +375,7 @@
         "created": 1739552297,
         "images": [],
         "videos": [],
-        "updated": 1739552384,
+        "updated": 1739552458,
         "published": true,
         "status": ""
       }
@@ -377,7 +394,9 @@
         "created": 1739552384,
         "images": [],
         "videos": [],
-        "updated": 1739552384
+        "updated": 1739552458,
+        "published": true,
+        "status": ""
       }
     },
     {
@@ -394,7 +413,9 @@
         "created": 1739552384,
         "images": [],
         "videos": [],
-        "updated": 1739552384
+        "updated": 1739552458,
+        "published": true,
+        "status": ""
       }
     },
     {
@@ -411,7 +432,7 @@
         "created": 1739550283,
         "images": {},
         "videos": {},
-        "updated": 1739552384,
+        "updated": 1739552458,
         "published": true,
         "status": "",
         "hideInMenu": false,
@@ -432,7 +453,7 @@
         "created": 1739550328,
         "images": {},
         "videos": {},
-        "updated": 1739552384,
+        "updated": 1739552458,
         "published": true,
         "status": "",
         "hideInMenu": false,
@@ -453,7 +474,7 @@
         "created": 1739551108,
         "images": [],
         "videos": [],
-        "updated": 1739552384,
+        "updated": 1739552458,
         "published": true,
         "status": ""
       }

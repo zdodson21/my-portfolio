@@ -69,7 +69,7 @@
       "description": "\n    To get started, hit the edit pencil on the side.\n    Now this content is editable in place so select and delete it to get started!\n    If you need to learn more about the HAX editor or HAXcms ch",
       "metadata": {
         "created": 1721947344,
-        "updated": 1739550283,
+        "updated": 1739550304,
         "published": true,
         "hideInMenu": false,
         "locked": false,
@@ -93,7 +93,7 @@
         "created": 1724869510,
         "images": {},
         "videos": {},
-        "updated": 1739550283,
+        "updated": 1739550304,
         "published": true,
         "status": "",
         "hideInMenu": false,
@@ -114,7 +114,7 @@
         "created": 1724869564,
         "images": {},
         "videos": {},
-        "updated": 1739550283,
+        "updated": 1739550304,
         "published": true,
         "hideInMenu": false,
         "readtime": 1,
@@ -135,7 +135,7 @@
         "created": 1724869564,
         "images": {},
         "videos": {},
-        "updated": 1739550283,
+        "updated": 1739550304,
         "published": true,
         "hideInMenu": false,
         "readtime": 1,
@@ -156,7 +156,7 @@
         "created": 1724937476,
         "images": {},
         "videos": {},
-        "updated": 1739550283,
+        "updated": 1739550304,
         "published": true,
         "status": "",
         "hideInMenu": false,
@@ -177,7 +177,7 @@
         "created": 1724939511,
         "images": {},
         "videos": {},
-        "updated": 1739550283,
+        "updated": 1739550304,
         "published": true,
         "hideInMenu": false,
         "readtime": 1,
@@ -195,7 +195,7 @@
       "description": "\n",
       "metadata": {
         "created": 1733237875,
-        "updated": 1739550283,
+        "updated": 1739550304,
         "images": {},
         "videos": {},
         "published": true,
@@ -219,7 +219,7 @@
         "created": 1739550222,
         "images": [],
         "videos": [],
-        "updated": 1739550283,
+        "updated": 1739550304,
         "published": true,
         "status": ""
       }
@@ -238,24 +238,9 @@
         "created": 1739550283,
         "images": [],
         "videos": [],
-        "updated": 1739550283
-      }
-    },
-    {
-      "id": "item-3a5e45f0-2e1b-49b6-bb86-5a0b4cb93324",
-      "indent": 0,
-      "location": "pages/item-3a5e45f0-2e1b-49b6-bb86-5a0b4cb93324/index.html",
-      "slug": "new-item",
-      "order": 2,
-      "parent": null,
-      "title": "New item",
-      "description": "",
-      "metadata": {
-        "locked": false,
-        "created": 1739550283,
-        "images": [],
-        "videos": [],
-        "updated": 1739550283
+        "updated": 1739550304,
+        "published": true,
+        "status": ""
       }
     },
     {
@@ -272,7 +257,9 @@
         "created": 1739550283,
         "images": [],
         "videos": [],
-        "updated": 1739550283
+        "updated": 1739550304,
+        "published": true,
+        "status": ""
       }
     }
   ]

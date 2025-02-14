@@ -323,15 +323,17 @@
       "order": 3,
       "parent": null,
       "title": "Education",
-      "description": "",
+      "description": "Penn State University (University Park, PA)\nB.S. ​Enterprise ​Technology ​Integration\nNotable ​Classes:\nIST ​256 ​- ​Programming ​for ​the ​WebIST ​301 ​- ​Information ​&amp; OrganizationsIST ​302 - ",
       "metadata": {
         "locked": false,
         "created": 1739550283,
-        "images": [],
-        "videos": [],
-        "updated": 1739550492,
+        "images": {},
+        "videos": {},
+        "updated": 1739550942,
         "published": true,
-        "status": ""
+        "status": "",
+        "hideInMenu": false,
+        "readtime": 1
       }
     },
     {

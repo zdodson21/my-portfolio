@@ -160,25 +160,6 @@
       }
     },
     {
-      "id": "item-741e2c52-8dd7-4c86-8d10-62279ae652fd",
-      "indent": 2,
-      "location": "pages/item-741e2c52-8dd7-4c86-8d10-62279ae652fd/index.html",
-      "slug": "projects/web-development/other",
-      "order": 2,
-      "parent": "item-16a6f84f-cb3b-4126-989a-a71ad175bcb7",
-      "title": "Other",
-      "description": "",
-      "metadata": {
-        "locked": false,
-        "created": 1739552225,
-        "images": [],
-        "videos": [],
-        "updated": 1739552558,
-        "published": true,
-        "status": ""
-      }
-    },
-    {
       "id": "item-fc929f86-a2f9-4cac-8dbe-327b1eb1705e",
       "indent": 1,
       "location": "pages/item-fc929f86-a2f9-4cac-8dbe-327b1eb1705e/index.html",

@@ -364,25 +364,6 @@
       }
     },
     {
-      "id": "item-f74522b3-aa23-4c0f-9947-251278dd016c",
-      "indent": 2,
-      "location": "pages/item-f74522b3-aa23-4c0f-9947-251278dd016c/index.html",
-      "slug": "projects/-visual-arts/other",
-      "order": 1,
-      "parent": "item-6c66e23b-d6f5-45f0-b9ac-37be74b25125",
-      "title": "Other",
-      "description": "",
-      "metadata": {
-        "locked": false,
-        "created": 1739552245,
-        "images": [],
-        "videos": [],
-        "updated": 1739552342,
-        "published": true,
-        "status": ""
-      }
-    },
-    {
       "id": "item-8c7e8390-d20d-4734-8f2a-6deb5ed2a972",
       "indent": 0,
       "location": "pages/item-8c7e8390-d20d-4734-8f2a-6deb5ed2a972/index.html",

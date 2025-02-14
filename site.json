@@ -23,7 +23,7 @@
         "gaID": null
       },
       "created": 1721947344,
-      "updated": 1739551183,
+      "updated": 1739551193,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -65,11 +65,11 @@
       "slug": "welcome",
       "order": 0,
       "parent": null,
-      "title": "Welcome to My Portfolio!",
+      "title": "Welcome",
       "description": "\n    To get started, hit the edit pencil on the side.\n    Now this content is editable in place so select and delete it to get started!\n    If you need to learn more about the HAX editor or HAXcms ch",
       "metadata": {
         "created": 1721947344,
-        "updated": 1739551183,
+        "updated": 1739551193,
         "published": true,
         "hideInMenu": false,
         "locked": false,
@@ -93,7 +93,7 @@
         "created": 1724869510,
         "images": {},
         "videos": {},
-        "updated": 1739551183,
+        "updated": 1739551193,
         "published": true,
         "status": "",
         "hideInMenu": false,
@@ -114,7 +114,7 @@
         "created": 1724869564,
         "images": {},
         "videos": {},
-        "updated": 1739551183,
+        "updated": 1739551193,
         "published": true,
         "hideInMenu": false,
         "readtime": 1,
@@ -135,7 +135,7 @@
         "created": 1724869564,
         "images": {},
         "videos": {},
-        "updated": 1739551183,
+        "updated": 1739551193,
         "published": true,
         "hideInMenu": false,
         "readtime": 1,
@@ -156,7 +156,7 @@
         "created": 1724937476,
         "images": {},
         "videos": {},
-        "updated": 1739551183,
+        "updated": 1739551193,
         "published": true,
         "status": "",
         "hideInMenu": false,
@@ -177,7 +177,7 @@
         "created": 1724939511,
         "images": {},
         "videos": {},
-        "updated": 1739551183,
+        "updated": 1739551193,
         "published": true,
         "hideInMenu": false,
         "readtime": 1,
@@ -195,7 +195,7 @@
       "description": "\n",
       "metadata": {
         "created": 1733237875,
-        "updated": 1739551183,
+        "updated": 1739551193,
         "images": {},
         "videos": {},
         "published": true,
@@ -219,7 +219,7 @@
         "created": 1739550283,
         "images": [],
         "videos": [],
-        "updated": 1739551183,
+        "updated": 1739551193,
         "published": true,
         "status": ""
       }
@@ -238,7 +238,7 @@
         "created": 1739550422,
         "images": [],
         "videos": [],
-        "updated": 1739551183,
+        "updated": 1739551193,
         "published": true,
         "status": ""
       }
@@ -257,7 +257,7 @@
         "created": 1739550451,
         "images": [],
         "videos": [],
-        "updated": 1739551183,
+        "updated": 1739551193,
         "published": true,
         "status": ""
       }
@@ -276,7 +276,7 @@
         "created": 1739550492,
         "images": [],
         "videos": [],
-        "updated": 1739551183,
+        "updated": 1739551193,
         "published": true,
         "status": ""
       }
@@ -295,7 +295,7 @@
         "created": 1739550492,
         "images": [],
         "videos": [],
-        "updated": 1739551183,
+        "updated": 1739551193,
         "published": true,
         "status": ""
       }
@@ -314,7 +314,7 @@
         "created": 1739550283,
         "images": {},
         "videos": {},
-        "updated": 1739551183,
+        "updated": 1739551193,
         "published": true,
         "status": "",
         "hideInMenu": false,
@@ -335,7 +335,7 @@
         "created": 1739550328,
         "images": [],
         "videos": [],
-        "updated": 1739551183,
+        "updated": 1739551193,
         "published": true,
         "status": ""
       }
@@ -354,7 +354,7 @@
         "created": 1739551108,
         "images": [],
         "videos": [],
-        "updated": 1739551183,
+        "updated": 1739551193,
         "published": true,
         "status": ""
       }

@@ -228,21 +228,23 @@
     },
     {
       "id": "item-16a6f84f-cb3b-4126-989a-a71ad175bcb7",
-      "indent": 1,
+      "indent": 0,
       "location": "pages/item-16a6f84f-cb3b-4126-989a-a71ad175bcb7/index.html",
       "slug": "projects/web-development",
       "order": 0,
       "parent": "item-4b3d6e54-0add-4275-95ae-1077dead1de8",
       "title": "Web Development",
-      "description": "",
+      "description": "The following pages are about web development related projects I have completed. These projects can range from web components to websites.\n",
       "metadata": {
         "locked": false,
         "created": 1739550422,
-        "images": [],
-        "videos": [],
-        "updated": 1739551627,
+        "images": {},
+        "videos": {},
+        "updated": 1739551943,
         "published": true,
-        "status": ""
+        "status": "",
+        "hideInMenu": false,
+        "readtime": 1
       }
     },
     {

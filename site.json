@@ -367,15 +367,17 @@
       "order": 2,
       "parent": null,
       "title": "Professional Experience",
-      "description": "",
+      "description": "Web &#8203;Development &#8203;Learning &#8203;Assistant &#8203;(August &#8203;- &#8203;December 2024)\nJunior &#8203;Front-End &#8203;Developer &#8203;(Internship) (May - August 2024)\n",
       "metadata": {
         "locked": false,
         "created": 1739550328,
-        "images": [],
-        "videos": [],
-        "updated": 1739551348,
+        "images": {},
+        "videos": {},
+        "updated": 1739551504,
         "published": true,
-        "status": ""
+        "status": "",
+        "hideInMenu": false,
+        "readtime": 1
       }
     },
     {

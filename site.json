@@ -102,7 +102,7 @@
     },
     {
       "id": "item-16a6f84f-cb3b-4126-989a-a71ad175bcb7",
-      "indent": 1,
+      "indent": 0,
       "location": "pages/item-16a6f84f-cb3b-4126-989a-a71ad175bcb7/index.html",
       "slug": "projects/web-development",
       "order": 0,
@@ -114,7 +114,7 @@
         "created": 1739550422,
         "images": {},
         "videos": {},
-        "updated": 1739552815,
+        "updated": 1739553371,
         "published": true,
         "status": "",
         "hideInMenu": false,

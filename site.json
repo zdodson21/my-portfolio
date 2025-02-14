@@ -280,25 +280,6 @@
         "published": true,
         "status": ""
       }
-    },
-    {
-      "id": "item-e5b63d87-81e3-48cc-ae9f-c7592c88d78d",
-      "indent": 0,
-      "location": "pages/item-e5b63d87-81e3-48cc-ae9f-c7592c88d78d/index.html",
-      "slug": "new-item",
-      "order": 5,
-      "parent": null,
-      "title": "New item",
-      "description": "",
-      "metadata": {
-        "locked": false,
-        "created": 1739550328,
-        "images": [],
-        "videos": [],
-        "updated": 1739550346,
-        "published": true,
-        "status": ""
-      }
     }
   ]
 }

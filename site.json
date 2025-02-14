@@ -101,27 +101,6 @@
       }
     },
     {
-      "id": "item-2084fc2d-32c4-4e27-b38e-a235a60f7743",
-      "indent": 0,
-      "location": "pages/item-2084fc2d-32c4-4e27-b38e-a235a60f7743/index.html",
-      "slug": "my-experience/work-experience",
-      "order": 5,
-      "parent": null,
-      "title": "Work Experience",
-      "description": "Web Development Learning Assistant (August - December 2024)\nHelped educate students about how to create web components\n",
-      "metadata": {
-        "locked": false,
-        "created": 1724869564,
-        "images": {},
-        "videos": {},
-        "updated": 1739552558,
-        "published": true,
-        "hideInMenu": false,
-        "readtime": 1,
-        "status": ""
-      }
-    },
-    {
       "id": "item-fd22129c-a3c3-456b-8951-79b52bd63a6f",
       "indent": 0,
       "location": "pages/item-fd22129c-a3c3-456b-8951-79b52bd63a6f/index.html",

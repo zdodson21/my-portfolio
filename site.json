@@ -23,7 +23,7 @@
         "gaID": null
       },
       "created": 1721947344,
-      "updated": 1739552157,
+      "updated": 1739552225,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -69,7 +69,7 @@
       "description": "\n    To get started, hit the edit pencil on the side.\n    Now this content is editable in place so select and delete it to get started!\n    If you need to learn more about the HAX editor or HAXcms ch",
       "metadata": {
         "created": 1721947344,
-        "updated": 1739552156,
+        "updated": 1739552225,
         "published": true,
         "hideInMenu": false,
         "locked": false,
@@ -93,7 +93,7 @@
         "created": 1724869510,
         "images": {},
         "videos": {},
-        "updated": 1739552157,
+        "updated": 1739552225,
         "published": true,
         "status": "",
         "hideInMenu": false,
@@ -114,7 +114,7 @@
         "created": 1724869564,
         "images": {},
         "videos": {},
-        "updated": 1739552156,
+        "updated": 1739552225,
         "published": true,
         "hideInMenu": false,
         "readtime": 1,
@@ -135,7 +135,7 @@
         "created": 1724869564,
         "images": {},
         "videos": {},
-        "updated": 1739552156,
+        "updated": 1739552225,
         "published": true,
         "hideInMenu": false,
         "readtime": 1,
@@ -156,7 +156,7 @@
         "created": 1724937476,
         "images": {},
         "videos": {},
-        "updated": 1739552157,
+        "updated": 1739552225,
         "published": true,
         "status": "",
         "hideInMenu": false,
@@ -177,7 +177,7 @@
         "created": 1724939511,
         "images": {},
         "videos": {},
-        "updated": 1739552157,
+        "updated": 1739552225,
         "published": true,
         "hideInMenu": false,
         "readtime": 1,
@@ -195,7 +195,7 @@
       "description": "\n",
       "metadata": {
         "created": 1733237875,
-        "updated": 1739552157,
+        "updated": 1739552225,
         "images": {},
         "videos": {},
         "published": true,
@@ -219,7 +219,7 @@
         "created": 1739550283,
         "images": {},
         "videos": {},
-        "updated": 1739552156,
+        "updated": 1739552225,
         "published": true,
         "status": "",
         "hideInMenu": false,
@@ -240,7 +240,7 @@
         "created": 1739550422,
         "images": {},
         "videos": {},
-        "updated": 1739552156,
+        "updated": 1739552225,
         "published": true,
         "status": "",
         "hideInMenu": false,
@@ -261,7 +261,7 @@
         "created": 1739551246,
         "images": [],
         "videos": [],
-        "updated": 1739552156,
+        "updated": 1739552225,
         "published": true,
         "status": ""
       }
@@ -280,9 +280,26 @@
         "created": 1739551627,
         "images": [],
         "videos": [],
-        "updated": 1739552156,
+        "updated": 1739552225,
         "published": true,
         "status": ""
+      }
+    },
+    {
+      "id": "item-741e2c52-8dd7-4c86-8d10-62279ae652fd",
+      "indent": 2,
+      "location": "pages/item-741e2c52-8dd7-4c86-8d10-62279ae652fd/index.html",
+      "slug": "projects/web-development/other",
+      "order": 2,
+      "parent": "item-16a6f84f-cb3b-4126-989a-a71ad175bcb7",
+      "title": "Other",
+      "description": "",
+      "metadata": {
+        "locked": false,
+        "created": 1739552225,
+        "images": [],
+        "videos": [],
+        "updated": 1739552225
       }
     },
     {
@@ -290,7 +307,7 @@
       "indent": 1,
       "location": "pages/item-fc929f86-a2f9-4cac-8dbe-327b1eb1705e/index.html",
       "slug": "projects/technology-integration",
-      "order": 3,
+      "order": 2,
       "parent": "item-4b3d6e54-0add-4275-95ae-1077dead1de8",
       "title": "Technology Integration",
       "description": "",
@@ -299,7 +316,7 @@
         "created": 1739550492,
         "images": [],
         "videos": [],
-        "updated": 1739552156,
+        "updated": 1739552225,
         "published": true,
         "status": ""
       }
@@ -309,7 +326,7 @@
       "indent": 1,
       "location": "pages/item-9e078a2e-000b-4f21-b289-06ee548a11f2/index.html",
       "slug": "projects/open-source-contributions",
-      "order": 4,
+      "order": 3,
       "parent": "item-4b3d6e54-0add-4275-95ae-1077dead1de8",
       "title": "Open Source Contributions",
       "description": "HAXTheWeb / HAXLabs\n\n",
@@ -318,7 +335,7 @@
         "created": 1739550492,
         "images": {},
         "videos": {},
-        "updated": 1739552156,
+        "updated": 1739552225,
         "published": true,
         "status": "",
         "hideInMenu": false,
@@ -327,7 +344,7 @@
     },
     {
       "id": "item-fb27c0ee-651a-45b7-a6a1-1520b8549908",
-      "indent": 0,
+      "indent": 1,
       "location": "pages/item-fb27c0ee-651a-45b7-a6a1-1520b8549908/index.html",
       "slug": "projects/graphic-design-/-visual-arts",
       "order": 1,
@@ -339,10 +356,11 @@
         "created": 1739552156,
         "images": {},
         "videos": {},
-        "updated": 1739552194,
+        "updated": 1739552225,
         "published": true,
         "hideInMenu": false,
-        "readtime": 1
+        "readtime": 1,
+        "status": ""
       }
     },
     {
@@ -359,9 +377,26 @@
         "created": 1739551348,
         "images": [],
         "videos": [],
-        "updated": 1739552156,
+        "updated": 1739552225,
         "published": true,
         "status": ""
+      }
+    },
+    {
+      "id": "item-a35f57a9-e9d7-4a39-abbc-654a92c3020c",
+      "indent": 2,
+      "location": "pages/item-a35f57a9-e9d7-4a39-abbc-654a92c3020c/index.html",
+      "slug": "projects/-visual-arts/new-item",
+      "order": 1,
+      "parent": "item-fb27c0ee-651a-45b7-a6a1-1520b8549908",
+      "title": "New item",
+      "description": "",
+      "metadata": {
+        "locked": false,
+        "created": 1739552225,
+        "images": [],
+        "videos": [],
+        "updated": 1739552225
       }
     },
     {
@@ -378,7 +413,7 @@
         "created": 1739550283,
         "images": {},
         "videos": {},
-        "updated": 1739552156,
+        "updated": 1739552225,
         "published": true,
         "status": "",
         "hideInMenu": false,
@@ -399,7 +434,7 @@
         "created": 1739550328,
         "images": {},
         "videos": {},
-        "updated": 1739552156,
+        "updated": 1739552225,
         "published": true,
         "status": "",
         "hideInMenu": false,
@@ -420,7 +455,7 @@
         "created": 1739551108,
         "images": [],
         "videos": [],
-        "updated": 1739552156,
+        "updated": 1739552225,
         "published": true,
         "status": ""
       }

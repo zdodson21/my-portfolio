@@ -250,13 +250,17 @@
       "slug": "projects/page",
       "order": 0,
       "parent": "item-4b3d6e54-0add-4275-95ae-1077dead1de8",
-      "title": "Page",
-      "description": "",
+      "title": "Web Development",
+      "description": "\n",
       "metadata": {
         "created": 1739550383,
-        "updated": 1739550383,
-        "images": [],
-        "videos": []
+        "updated": 1739550400,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1
       }
     },
     {

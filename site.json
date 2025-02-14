@@ -23,7 +23,7 @@
         "gaID": null
       },
       "created": 1721947344,
-      "updated": 1739552225,
+      "updated": 1739552245,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -385,6 +385,23 @@
       }
     },
     {
+      "id": "item-f74522b3-aa23-4c0f-9947-251278dd016c",
+      "indent": 2,
+      "location": "pages/item-f74522b3-aa23-4c0f-9947-251278dd016c/index.html",
+      "slug": "projects/-visual-arts/other",
+      "order": 2,
+      "parent": "item-fb27c0ee-651a-45b7-a6a1-1520b8549908",
+      "title": "Other",
+      "description": "",
+      "metadata": {
+        "locked": false,
+        "created": 1739552245,
+        "images": [],
+        "videos": [],
+        "updated": 1739552245
+      }
+    },
+    {
       "id": "item-8c7e8390-d20d-4734-8f2a-6deb5ed2a972",
       "indent": 0,
       "location": "pages/item-8c7e8390-d20d-4734-8f2a-6deb5ed2a972/index.html",
@@ -443,23 +460,6 @@
         "updated": 1739552245,
         "published": true,
         "status": ""
-      }
-    },
-    {
-      "id": "item-f74522b3-aa23-4c0f-9947-251278dd016c",
-      "indent": 2,
-      "location": "pages/item-f74522b3-aa23-4c0f-9947-251278dd016c/index.html",
-      "slug": "projects/-visual-arts/other",
-      "order": 2,
-      "parent": "item-fb27c0ee-651a-45b7-a6a1-1520b8549908",
-      "title": "Other",
-      "description": "",
-      "metadata": {
-        "locked": false,
-        "created": 1739552245,
-        "images": [],
-        "videos": [],
-        "updated": 1739552245
       }
     }
   ]

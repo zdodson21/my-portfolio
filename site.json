@@ -361,15 +361,17 @@
       "order": 4,
       "parent": null,
       "title": "External Links",
-      "description": "",
+      "description": "GitHub ProfileLinkedIn ​Profile\n",
       "metadata": {
         "locked": false,
         "created": 1739551108,
-        "images": [],
-        "videos": [],
-        "updated": 1739552815,
+        "images": {},
+        "videos": {},
+        "updated": 1739553272,
         "published": true,
-        "status": ""
+        "status": "",
+        "hideInMenu": false,
+        "readtime": 1
       }
     }
   ]

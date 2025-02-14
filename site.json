@@ -263,23 +263,6 @@
       }
     },
     {
-      "id": "item-de88d8aa-6f82-4862-9715-a8a4c3d90ddd",
-      "indent": 2,
-      "location": "pages/item-de88d8aa-6f82-4862-9715-a8a4c3d90ddd/index.html",
-      "slug": "projects/web-development/new-item",
-      "order": 0,
-      "parent": "item-16a6f84f-cb3b-4126-989a-a71ad175bcb7",
-      "title": "New item",
-      "description": "",
-      "metadata": {
-        "locked": false,
-        "created": 1739551599,
-        "images": [],
-        "videos": [],
-        "updated": 1739551599
-      }
-    },
-    {
       "id": "item-858746c0-67ac-4e4f-b997-9c5b74bd3559",
       "indent": 1,
       "location": "pages/item-858746c0-67ac-4e4f-b997-9c5b74bd3559/index.html",

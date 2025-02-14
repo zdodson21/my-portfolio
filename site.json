@@ -327,19 +327,22 @@
     },
     {
       "id": "item-fb27c0ee-651a-45b7-a6a1-1520b8549908",
-      "indent": 1,
+      "indent": 0,
       "location": "pages/item-fb27c0ee-651a-45b7-a6a1-1520b8549908/index.html",
       "slug": "projects/graphic-design-/-visual-arts",
       "order": 1,
       "parent": "item-4b3d6e54-0add-4275-95ae-1077dead1de8",
       "title": "Graphic Design / Visual Arts",
-      "description": "",
+      "description": "The following page(s) contain information about graphical design and visual arts related projects I have completed.\n",
       "metadata": {
         "locked": false,
         "created": 1739552156,
-        "images": [],
-        "videos": [],
-        "updated": 1739552156
+        "images": {},
+        "videos": {},
+        "updated": 1739552194,
+        "published": true,
+        "hideInMenu": false,
+        "readtime": 1
       }
     },
     {

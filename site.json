@@ -122,33 +122,12 @@
       }
     },
     {
-      "id": "item-d4409fa7-108d-430a-9244-45408a1411e5",
-      "indent": 0,
-      "location": "pages/item-d4409fa7-108d-430a-9244-45408a1411e5/index.html",
-      "slug": "my-experience/the-tools-i-use",
-      "order": 7,
-      "parent": null,
-      "title": "The Tools I Use",
-      "description": "Web Development Tools\nHTMLCSSJavaScriptFrameworksLitOpenWCVercel (Web Hosting)GitGitHub\n",
-      "metadata": {
-        "locked": false,
-        "created": 1724939511,
-        "images": {},
-        "videos": {},
-        "updated": 1739552558,
-        "published": true,
-        "hideInMenu": false,
-        "readtime": 1,
-        "status": ""
-      }
-    },
-    {
       "id": "item-6fb52e2b-e19f-4da9-8bee-f2ec613fd555",
       "indent": 1,
       "location": "pages/item-6fb52e2b-e19f-4da9-8bee-f2ec613fd555/index.html",
       "slug": "my-experience/the-tools-i-use/page",
-      "order": 0,
-      "parent": "item-d4409fa7-108d-430a-9244-45408a1411e5",
+      "order": 18,
+      "parent": null,
       "title": "Alphabetical List of Tools",
       "description": "\n",
       "metadata": {

@@ -101,27 +101,6 @@
       }
     },
     {
-      "id": "item-fd22129c-a3c3-456b-8951-79b52bd63a6f",
-      "indent": 0,
-      "location": "pages/item-fd22129c-a3c3-456b-8951-79b52bd63a6f/index.html",
-      "slug": "my-experience/personal-projects",
-      "order": 9,
-      "parent": null,
-      "title": "Personal Projects",
-      "description": "Personal Website\n",
-      "metadata": {
-        "locked": false,
-        "created": 1724937476,
-        "images": {},
-        "videos": {},
-        "updated": 1739552558,
-        "published": true,
-        "status": "",
-        "hideInMenu": false,
-        "readtime": 1
-      }
-    },
-    {
       "id": "item-6fb52e2b-e19f-4da9-8bee-f2ec613fd555",
       "indent": 1,
       "location": "pages/item-6fb52e2b-e19f-4da9-8bee-f2ec613fd555/index.html",

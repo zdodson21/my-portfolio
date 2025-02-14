@@ -213,15 +213,17 @@
       "order": 1,
       "parent": null,
       "title": "Projects",
-      "description": "",
+      "description": "The &#8203;following &#8203;pages &#8203;contain &#8203;detailed &#8203;descriptions &#8203;of &#8203;projects I have worked on.\n",
       "metadata": {
         "locked": false,
         "created": 1739550283,
-        "images": [],
-        "videos": [],
-        "updated": 1739551627,
+        "images": {},
+        "videos": {},
+        "updated": 1739551809,
         "published": true,
-        "status": ""
+        "status": "",
+        "hideInMenu": false,
+        "readtime": 1
       }
     },
     {

@@ -23,7 +23,7 @@
         "gaID": null
       },
       "created": 1721947344,
-      "updated": 1739552245,
+      "updated": 1739552298,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -69,7 +69,7 @@
       "description": "\n    To get started, hit the edit pencil on the side.\n    Now this content is editable in place so select and delete it to get started!\n    If you need to learn more about the HAX editor or HAXcms ch",
       "metadata": {
         "created": 1721947344,
-        "updated": 1739552245,
+        "updated": 1739552297,
         "published": true,
         "hideInMenu": false,
         "locked": false,
@@ -93,7 +93,7 @@
         "created": 1724869510,
         "images": {},
         "videos": {},
-        "updated": 1739552245,
+        "updated": 1739552298,
         "published": true,
         "status": "",
         "hideInMenu": false,
@@ -114,7 +114,7 @@
         "created": 1724869564,
         "images": {},
         "videos": {},
-        "updated": 1739552245,
+        "updated": 1739552297,
         "published": true,
         "hideInMenu": false,
         "readtime": 1,
@@ -135,7 +135,7 @@
         "created": 1724869564,
         "images": {},
         "videos": {},
-        "updated": 1739552245,
+        "updated": 1739552298,
         "published": true,
         "hideInMenu": false,
         "readtime": 1,
@@ -156,7 +156,7 @@
         "created": 1724937476,
         "images": {},
         "videos": {},
-        "updated": 1739552245,
+        "updated": 1739552298,
         "published": true,
         "status": "",
         "hideInMenu": false,
@@ -177,7 +177,7 @@
         "created": 1724939511,
         "images": {},
         "videos": {},
-        "updated": 1739552245,
+        "updated": 1739552298,
         "published": true,
         "hideInMenu": false,
         "readtime": 1,
@@ -195,7 +195,7 @@
       "description": "\n",
       "metadata": {
         "created": 1733237875,
-        "updated": 1739552245,
+        "updated": 1739552298,
         "images": {},
         "videos": {},
         "published": true,
@@ -219,7 +219,7 @@
         "created": 1739550283,
         "images": {},
         "videos": {},
-        "updated": 1739552245,
+        "updated": 1739552297,
         "published": true,
         "status": "",
         "hideInMenu": false,
@@ -240,7 +240,7 @@
         "created": 1739550422,
         "images": {},
         "videos": {},
-        "updated": 1739552245,
+        "updated": 1739552297,
         "published": true,
         "status": "",
         "hideInMenu": false,
@@ -261,7 +261,7 @@
         "created": 1739551246,
         "images": [],
         "videos": [],
-        "updated": 1739552245,
+        "updated": 1739552297,
         "published": true,
         "status": ""
       }
@@ -280,7 +280,7 @@
         "created": 1739551627,
         "images": [],
         "videos": [],
-        "updated": 1739552245,
+        "updated": 1739552297,
         "published": true,
         "status": ""
       }
@@ -299,7 +299,7 @@
         "created": 1739552225,
         "images": [],
         "videos": [],
-        "updated": 1739552245,
+        "updated": 1739552297,
         "published": true,
         "status": ""
       }
@@ -318,7 +318,7 @@
         "created": 1739550492,
         "images": [],
         "videos": [],
-        "updated": 1739552245,
+        "updated": 1739552297,
         "published": true,
         "status": ""
       }
@@ -337,7 +337,7 @@
         "created": 1739550492,
         "images": {},
         "videos": {},
-        "updated": 1739552245,
+        "updated": 1739552297,
         "published": true,
         "status": "",
         "hideInMenu": false,
@@ -358,7 +358,7 @@
         "created": 1739552156,
         "images": {},
         "videos": {},
-        "updated": 1739552245,
+        "updated": 1739552297,
         "published": true,
         "hideInMenu": false,
         "readtime": 1,
@@ -379,7 +379,7 @@
         "created": 1739551348,
         "images": [],
         "videos": [],
-        "updated": 1739552245,
+        "updated": 1739552297,
         "published": true,
         "status": ""
       }
@@ -389,7 +389,7 @@
       "indent": 2,
       "location": "pages/item-f74522b3-aa23-4c0f-9947-251278dd016c/index.html",
       "slug": "projects/-visual-arts/other",
-      "order": 2,
+      "order": 1,
       "parent": "item-fb27c0ee-651a-45b7-a6a1-1520b8549908",
       "title": "Other",
       "description": "",
@@ -398,7 +398,26 @@
         "created": 1739552245,
         "images": [],
         "videos": [],
-        "updated": 1739552245
+        "updated": 1739552297,
+        "published": true,
+        "status": ""
+      }
+    },
+    {
+      "id": "item-6c66e23b-d6f5-45f0-b9ac-37be74b25125",
+      "indent": 1,
+      "location": "pages/item-6c66e23b-d6f5-45f0-b9ac-37be74b25125/index.html",
+      "slug": "projects/graphic-design-&-visual-arts",
+      "order": 4,
+      "parent": "item-4b3d6e54-0add-4275-95ae-1077dead1de8",
+      "title": "Graphic Design & Visual Arts",
+      "description": "",
+      "metadata": {
+        "locked": false,
+        "created": 1739552297,
+        "images": [],
+        "videos": [],
+        "updated": 1739552297
       }
     },
     {
@@ -415,7 +434,7 @@
         "created": 1739550283,
         "images": {},
         "videos": {},
-        "updated": 1739552245,
+        "updated": 1739552297,
         "published": true,
         "status": "",
         "hideInMenu": false,
@@ -436,7 +455,7 @@
         "created": 1739550328,
         "images": {},
         "videos": {},
-        "updated": 1739552245,
+        "updated": 1739552297,
         "published": true,
         "status": "",
         "hideInMenu": false,
@@ -457,7 +476,7 @@
         "created": 1739551108,
         "images": [],
         "videos": [],
-        "updated": 1739552245,
+        "updated": 1739552297,
         "published": true,
         "status": ""
       }

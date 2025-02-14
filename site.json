@@ -244,6 +244,22 @@
       }
     },
     {
+      "id": "item-352aa56b-333c-4e67-8705-661d927890da",
+      "indent": 0,
+      "location": "pages/item-352aa56b-333c-4e67-8705-661d927890da/index.html",
+      "slug": "projects/page",
+      "order": 0,
+      "parent": "item-4b3d6e54-0add-4275-95ae-1077dead1de8",
+      "title": "Page",
+      "description": "",
+      "metadata": {
+        "created": 1739550383,
+        "updated": 1739550383,
+        "images": [],
+        "videos": []
+      }
+    },
+    {
       "id": "item-8c7e8390-d20d-4734-8f2a-6deb5ed2a972",
       "indent": 0,
       "location": "pages/item-8c7e8390-d20d-4734-8f2a-6deb5ed2a972/index.html",

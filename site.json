@@ -338,6 +338,14 @@
             "type": "image/png",
             "name": "Cover---Update-Pack.png",
             "size": 1845218
+          },
+          {
+            "path": "/home/zdodson/Documents/projects/development/web-dev/my-portfolio/files/Skill-Sheet---Warrior.png",
+            "fullUrl": "//home/zdodson/Documents/projects/development/web-dev/my-portfolio/files/Skill-Sheet---Warrior.png",
+            "url": "files/Skill-Sheet---Warrior.png",
+            "type": "image/png",
+            "name": "Skill-Sheet---Warrior.png",
+            "size": 29405
           }
         ]
       }

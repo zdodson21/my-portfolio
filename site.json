@@ -346,6 +346,14 @@
             "type": "image/png",
             "name": "Skill-Sheet---Warrior.png",
             "size": 29405
+          },
+          {
+            "path": "/home/zdodson/Documents/projects/development/web-dev/my-portfolio/files/Skill-Sheet---Archer.png",
+            "fullUrl": "//home/zdodson/Documents/projects/development/web-dev/my-portfolio/files/Skill-Sheet---Archer.png",
+            "url": "files/Skill-Sheet---Archer.png",
+            "type": "image/png",
+            "name": "Skill-Sheet---Archer.png",
+            "size": 31812
           }
         ]
       }

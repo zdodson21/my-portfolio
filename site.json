@@ -23,7 +23,7 @@
         "gaID": null
       },
       "created": 1721947344,
-      "updated": 1739552815,
+      "updated": 1739622074,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -69,7 +69,7 @@
       "description": "\n    To get started, hit the edit pencil on the side.\n    Now this content is editable in place so select and delete it to get started!\n    If you need to learn more about the HAX editor or HAXcms ch",
       "metadata": {
         "created": 1721947344,
-        "updated": 1739552815,
+        "updated": 1739622074,
         "published": true,
         "hideInMenu": false,
         "locked": false,
@@ -93,7 +93,7 @@
         "created": 1739550283,
         "images": {},
         "videos": {},
-        "updated": 1739552815,
+        "updated": 1739622074,
         "published": true,
         "status": "",
         "hideInMenu": false,
@@ -102,7 +102,7 @@
     },
     {
       "id": "item-16a6f84f-cb3b-4126-989a-a71ad175bcb7",
-      "indent": 0,
+      "indent": 1,
       "location": "pages/item-16a6f84f-cb3b-4126-989a-a71ad175bcb7/index.html",
       "slug": "projects/web-development",
       "order": 0,
@@ -114,7 +114,7 @@
         "created": 1739550422,
         "images": {},
         "videos": {},
-        "updated": 1739553371,
+        "updated": 1739622074,
         "published": true,
         "status": "",
         "hideInMenu": false,
@@ -123,7 +123,7 @@
     },
     {
       "id": "item-98700c33-2d32-4b01-b406-5b6994b475e5",
-      "indent": 0,
+      "indent": 2,
       "location": "pages/item-98700c33-2d32-4b01-b406-5b6994b475e5/index.html",
       "slug": "projects/web-development/portfolio",
       "order": 1,
@@ -135,7 +135,7 @@
         "created": 1739551246,
         "images": {},
         "videos": {},
-        "updated": 1739558741,
+        "updated": 1739622074,
         "published": true,
         "status": "",
         "hideInMenu": false,
@@ -156,7 +156,7 @@
         "created": 1739551627,
         "images": [],
         "videos": [],
-        "updated": 1739552815,
+        "updated": 1739622074,
         "published": true,
         "status": ""
       }
@@ -175,7 +175,9 @@
         "created": 1739552815,
         "images": [],
         "videos": [],
-        "updated": 1739552815
+        "updated": 1739622074,
+        "published": true,
+        "status": ""
       }
     },
     {
@@ -192,7 +194,7 @@
         "created": 1739550492,
         "images": [],
         "videos": [],
-        "updated": 1739552815,
+        "updated": 1739622074,
         "published": true,
         "status": ""
       }
@@ -211,7 +213,7 @@
         "created": 1739552458,
         "images": [],
         "videos": [],
-        "updated": 1739552815,
+        "updated": 1739622074,
         "published": true,
         "status": ""
       }
@@ -230,14 +232,14 @@
         "created": 1739552558,
         "images": [],
         "videos": [],
-        "updated": 1739552815,
+        "updated": 1739622074,
         "published": true,
         "status": ""
       }
     },
     {
       "id": "item-9e078a2e-000b-4f21-b289-06ee548a11f2",
-      "indent": 0,
+      "indent": 1,
       "location": "pages/item-9e078a2e-000b-4f21-b289-06ee548a11f2/index.html",
       "slug": "projects/open-source-contributions",
       "order": 3,
@@ -249,7 +251,7 @@
         "created": 1739550492,
         "images": {},
         "videos": {},
-        "updated": 1739559893,
+        "updated": 1739622074,
         "published": true,
         "status": "",
         "hideInMenu": false,
@@ -258,19 +260,19 @@
     },
     {
       "id": "item-6c66e23b-d6f5-45f0-b9ac-37be74b25125",
-      "indent": 0,
+      "indent": 1,
       "location": "pages/item-6c66e23b-d6f5-45f0-b9ac-37be74b25125/index.html",
       "slug": "projects/graphic-design-&amp;-visual-arts",
       "order": 1,
       "parent": "item-4b3d6e54-0add-4275-95ae-1077dead1de8",
-      "title": "Graphic Design &amp; Visual Arts",
+      "title": "Graphic Design & Visual Arts",
       "description": "The &#8203;following &#8203;page(s) describe various graphic design &#38; visual arts related projects I have completed.\n",
       "metadata": {
         "locked": false,
         "created": 1739552297,
         "images": {},
         "videos": {},
-        "updated": 1739582817,
+        "updated": 1739622074,
         "published": true,
         "status": "",
         "hideInMenu": false,
@@ -279,7 +281,7 @@
     },
     {
       "id": "item-41a376db-578f-496a-bab7-144719f06027",
-      "indent": 0,
+      "indent": 2,
       "location": "pages/item-41a376db-578f-496a-bab7-144719f06027/index.html",
       "slug": "projects/graphic-design-&amp;-visual-arts/wynncraft-physical-collection",
       "order": 0,
@@ -291,7 +293,7 @@
         "created": 1739552384,
         "images": {},
         "videos": {},
-        "updated": 1739582708,
+        "updated": 1739622074,
         "published": true,
         "status": "",
         "hideInMenu": false,
@@ -312,7 +314,7 @@
         "created": 1739552384,
         "images": [],
         "videos": [],
-        "updated": 1739552815,
+        "updated": 1739622074,
         "published": true,
         "status": ""
       }
@@ -331,7 +333,7 @@
         "created": 1739550283,
         "images": {},
         "videos": {},
-        "updated": 1739552815,
+        "updated": 1739622074,
         "published": true,
         "status": "",
         "hideInMenu": false,
@@ -352,7 +354,7 @@
         "created": 1739550328,
         "images": {},
         "videos": {},
-        "updated": 1739552815,
+        "updated": 1739622074,
         "published": true,
         "status": "",
         "hideInMenu": false,
@@ -373,7 +375,7 @@
         "created": 1739551108,
         "images": {},
         "videos": {},
-        "updated": 1739553327,
+        "updated": 1739622074,
         "published": true,
         "status": "",
         "hideInMenu": false,

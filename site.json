@@ -277,21 +277,23 @@
     },
     {
       "id": "item-41a376db-578f-496a-bab7-144719f06027",
-      "indent": 2,
+      "indent": 0,
       "location": "pages/item-41a376db-578f-496a-bab7-144719f06027/index.html",
-      "slug": "projects/graphic-design-&-visual-arts/wynncraft-physical-collection",
+      "slug": "projects/graphic-design-&amp;-visual-arts/wynncraft-physical-collection",
       "order": 0,
       "parent": "item-6c66e23b-d6f5-45f0-b9ac-37be74b25125",
       "title": "Wynncraft Physical Collection",
-      "description": "",
+      "description": "Wynncraft &#8203;is &#8203;a &#8203;Minecraft &#8203;server that creates an MMORPG experience in Minecraft, with a custom texture pack, soundtrack, quests, and more. Unfortunately, due to it being a ",
       "metadata": {
         "locked": false,
         "created": 1739552384,
-        "images": [],
-        "videos": [],
-        "updated": 1739552815,
+        "images": {},
+        "videos": {},
+        "updated": 1739581963,
         "published": true,
-        "status": ""
+        "status": "",
+        "hideInMenu": false,
+        "readtime": 1
       }
     },
     {

@@ -2,12 +2,12 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <channel>
   <title>my-portfolio</title>
-  <link>/rss.xml</link>
+  <link>zachdodson.me/rss.xml</link>
   <description>Zach Dodson's Portfolio</description>
-  <copyright>Copyright (C) 2025 </copyright>
+  <copyright>Copyright (C) 2025 zachdodson.me</copyright>
   <language>en-us</language>
-  <lastBuildDate>1970-01-21T03:13:42.074Z</lastBuildDate>
-  <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+  <lastBuildDate>1970-01-21T03:13:42.154Z</lastBuildDate>
+  <atom:link href="zachdodson.me/rss.xml" rel="self" type="application/rss+xml"/>
   
 </channel>
 </rss>

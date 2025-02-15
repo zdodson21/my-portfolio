@@ -306,6 +306,14 @@
             "type": "image/png",
             "name": "Cover---Wynncraft.png",
             "size": 1394904
+          },
+          {
+            "path": "/home/zdodson/Documents/projects/development/web-dev/my-portfolio/files/Cover---Gavel.png",
+            "fullUrl": "//home/zdodson/Documents/projects/development/web-dev/my-portfolio/files/Cover---Gavel.png",
+            "url": "files/Cover---Gavel.png",
+            "type": "image/png",
+            "name": "Cover---Gavel.png",
+            "size": 1825867
           }
         ]
       }

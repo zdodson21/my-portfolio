@@ -322,6 +322,14 @@
             "type": "image/png",
             "name": "Cover---Corkus.png",
             "size": 1591755
+          },
+          {
+            "path": "/home/zdodson/Documents/projects/development/web-dev/my-portfolio/files/Cover---Silent-Expanse.png",
+            "fullUrl": "//home/zdodson/Documents/projects/development/web-dev/my-portfolio/files/Cover---Silent-Expanse.png",
+            "url": "files/Cover---Silent-Expanse.png",
+            "type": "image/png",
+            "name": "Cover---Silent-Expanse.png",
+            "size": 1257073
           }
         ]
       }

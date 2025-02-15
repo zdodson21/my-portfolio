@@ -314,6 +314,14 @@
             "type": "image/png",
             "name": "Cover---Gavel.png",
             "size": 1825867
+          },
+          {
+            "path": "/home/zdodson/Documents/projects/development/web-dev/my-portfolio/files/Cover---Corkus.png",
+            "fullUrl": "//home/zdodson/Documents/projects/development/web-dev/my-portfolio/files/Cover---Corkus.png",
+            "url": "files/Cover---Corkus.png",
+            "type": "image/png",
+            "name": "Cover---Corkus.png",
+            "size": 1591755
           }
         ]
       }

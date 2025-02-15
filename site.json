@@ -330,6 +330,14 @@
             "type": "image/png",
             "name": "Cover---Silent-Expanse.png",
             "size": 1257073
+          },
+          {
+            "path": "/home/zdodson/Documents/projects/development/web-dev/my-portfolio/files/Cover---Update-Pack.png",
+            "fullUrl": "//home/zdodson/Documents/projects/development/web-dev/my-portfolio/files/Cover---Update-Pack.png",
+            "url": "files/Cover---Update-Pack.png",
+            "type": "image/png",
+            "name": "Cover---Update-Pack.png",
+            "size": 1845218
           }
         ]
       }

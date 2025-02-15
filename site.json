@@ -281,7 +281,7 @@
     },
     {
       "id": "item-41a376db-578f-496a-bab7-144719f06027",
-      "indent": 2,
+      "indent": 0,
       "location": "pages/item-41a376db-578f-496a-bab7-144719f06027/index.html",
       "slug": "projects/graphic-design-&amp;-visual-arts/wynncraft-physical-collection",
       "order": 0,
@@ -293,7 +293,7 @@
         "created": 1739552384,
         "images": {},
         "videos": {},
-        "updated": 1739622074,
+        "updated": 1739623959,
         "published": true,
         "status": "",
         "hideInMenu": false,

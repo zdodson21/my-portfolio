@@ -25,3 +25,8 @@ Disallow: /dist/
 Disallow: /node_modules/
 Disallow: /pages/
 Disallow: /theme/
+
+User-agent: GPTBot
+Disallow: /
+User-agent: ChatGPT-User
+Disallow: /

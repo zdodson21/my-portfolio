@@ -354,6 +354,14 @@
             "type": "image/png",
             "name": "Skill-Sheet---Archer.png",
             "size": 31812
+          },
+          {
+            "path": "/home/zdodson/Documents/projects/development/web-dev/my-portfolio/files/Skill-Sheet---Mage.png",
+            "fullUrl": "//home/zdodson/Documents/projects/development/web-dev/my-portfolio/files/Skill-Sheet---Mage.png",
+            "url": "files/Skill-Sheet---Mage.png",
+            "type": "image/png",
+            "name": "Skill-Sheet---Mage.png",
+            "size": 28776
           }
         ]
       }

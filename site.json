@@ -23,13 +23,13 @@
         "gaID": null
       },
       "created": 1721947344,
-      "updated": 1739622074,
+      "updated": 1739622154,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
       },
-      "version": "9.0.21",
-      "domain": null,
+      "version": "10.0.1",
+      "domain": "zachdodson.me",
       "tags": null,
       "static": {}
     },

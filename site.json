@@ -318,7 +318,17 @@
         "published": true,
         "status": "",
         "hideInMenu": false,
-        "readtime": 1
+        "readtime": 1,
+        "files": [
+          {
+            "path": "/home/zdodson/Documents/projects/development/web-dev/my-portfolio/files/perception-is-not-reality-poster.png",
+            "fullUrl": "//home/zdodson/Documents/projects/development/web-dev/my-portfolio/files/perception-is-not-reality-poster.png",
+            "url": "files/perception-is-not-reality-poster.png",
+            "type": "image/png",
+            "name": "perception-is-not-reality-poster.png",
+            "size": 98763
+          }
+        ]
       }
     },
     {

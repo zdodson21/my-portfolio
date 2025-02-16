@@ -235,6 +235,14 @@
             "type": "image/png",
             "name": "chat-interface.png",
             "size": 56460
+          },
+          {
+            "path": "/home/zdodson/Documents/projects/development/web-dev/my-portfolio/files/chat-message.png",
+            "fullUrl": "//home/zdodson/Documents/projects/development/web-dev/my-portfolio/files/chat-message.png",
+            "url": "files/chat-message.png",
+            "type": "image/png",
+            "name": "chat-message.png",
+            "size": 42082
           }
         ]
       }

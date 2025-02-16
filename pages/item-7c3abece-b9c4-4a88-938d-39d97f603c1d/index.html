@@ -1,7 +1,7 @@
 
 <p data-text-align="left">Between &#8203;May &#8203;- &#8203;August &#8203;of &#8203;2024 I &#8203;created &#8203;numerous &#8203;web &#8203;components &#8203;for &#8203;HAXTheWeb &#8203;(now &#8203;HAXLabs). These &#8203;web &#8203;components &#8203;were &#8203;utilized &#8203;to &#8203;create &#8203;one &#8203;big &#8203;component, &#8203;named &#8203;<code target="_blank">chat-agent</code>. &#8203;The goal &#8203;of &#8203;this &#8203;project &#8203;was &#8203;to &#8203;create &#8203;a &#8203;chat &#8203;agent &#8203;for &#8203;websites &#8203;created &#8203;with &#8203;HAXcms that &#8203;could essentially act &#8203;as a &#8203;virtual &#8203;teacher, &#8203;using &#8203;website &#8203;content &#8203;and &#8203;HAX &#8203;knowledge &#8203;(for &#8203;developers) as context &#8203;to &#8203;answer &#8203;user &#8203;questions. &#8203;Under the hood, a "store" is used to house anything that is needed across the various sub-components of the overhead <code>chat-agent</code> component. This includes global variables and functions. The code for this store can be viewed <a href="https://github.com/haxtheweb/webcomponents/blob/master/elements/chat-agent/lib/chat-agent-store.js" role="textbox" target="_blank">here</a>.</p>
 <p data-text-align="left"><code>chat-agent</code> &#8203;features &#8203;will &#8203;be &#8203;described &#8203;below &#8203;next &#8203;to &#8203;web components they belong to.</p>
-<grid-plate disable-responsive layout="1-1" data-text-align="center" data-border="lg">
+<grid-plate disable-responsive layout="1-1" data-text-align="center" data-border="xs">
 
     
 
@@ -9,6 +9,7 @@
 
 
 <h2 slot="col-1" id="header-b9c6a23c-177f-a5c5-d3a3-98f6b78b4611" data-text-align="center"><a href="https://github.com/haxtheweb/webcomponents/blob/master/elements/chat-agent/chat-agent.js" target="_blank">Chat Agent</a></h2><media-image source="files/dd2d0760d9d839725d77e5ef7dfec1ad-chat-agent.png" slot="col-2" accent-color="grey" size="wide" offset="none" caption="Chat Agent Web Component" modal-title="Chat Agent Web Component" _has-caption></media-image>
+
 
 
 
@@ -26,6 +27,7 @@
 
 
 <media-image source="files/chat-button.png" slot="col-2" accent-color="grey" size="wide" offset="none" data-width="25" data-float-position="center" data-margin="center" caption="Chat Button Web Component" modal-title="Chat Button Web Component" _has-caption></media-image>
+
 
 
 
@@ -53,6 +55,7 @@
 
 
 
+
 </grid-plate>
 <grid-plate disable-responsive layout="1-1"><h2 data-design-treatment="vert" data-primary="15" slot="col-1">Scanning Process / Software</h2><p slot="col-1">The following stages of the process involves aligning the various scans to create
     a coherent, detailed 3D model using Artec Studio 17 software. The point cloud is
@@ -76,28 +79,6 @@
 
 
 
-</grid-plate>
-<grid-plate disable-responsive layout="2-1"><h2 data-design-treatment="vert" data-primary="15" slot="col-1">Scanning Process / Software</h2><p slot="col-1">The following stages of the process involves aligning the various scans to create
-    a coherent, detailed 3D model using Artec Studio 17 software. The point cloud is
-    converted into a mesh, which is a solid 3D model, and the texture data captured by
-    the scanner is mapped back onto the mesh to add color, markings, and other details.
-    The final 3D model can be exported into other software platforms, such as Blender
-    and Instant Mesh, both of which are open-source.</p>
-
-    <p ="true"="" slot="col-1">To optimize the model for web use, it must be reduced significantly in size. To
-    achieve this, the polygon count is reduced using Instant Mesh, and the resulting
-    low-polygon model is unwrapped, and the texture and additional details are added
-    through a process called “baking” onto the model using normal mapping. This is a
-    commonly used technique in film and video game production to reduce file sizes, processing
-    power, and other resources required.</p>
-
- <media-image citation="3D scanner and software shown scanning an ODL coffee mug." accent-color="grey" size="wide" offset="none" slot="col-2" source="https://bones.courses.science.psu.edu/assets/images/scanning-page-images/scanner-odl.jpg" card box></media-image>
-
-
-
-
-
-
 
 </grid-plate>
 <grid-plate disable-responsive layout="2-1"><h2 data-design-treatment="vert" data-primary="15" slot="col-1">Scanning Process / Software</h2><p slot="col-1">The following stages of the process involves aligning the various scans to create
@@ -122,6 +103,7 @@
 
 
 
+
 </grid-plate>
 <grid-plate disable-responsive layout="2-1"><h2 data-design-treatment="vert" data-primary="15" slot="col-1">Scanning Process / Software</h2><p slot="col-1">The following stages of the process involves aligning the various scans to create
     a coherent, detailed 3D model using Artec Studio 17 software. The point cloud is
@@ -138,6 +120,31 @@
     power, and other resources required.</p>
 
  <media-image citation="3D scanner and software shown scanning an ODL coffee mug." accent-color="grey" size="wide" offset="none" slot="col-2" source="https://bones.courses.science.psu.edu/assets/images/scanning-page-images/scanner-odl.jpg" card box></media-image>
+
+
+
+
+
+
+
+
+</grid-plate>
+<grid-plate disable-responsive layout="2-1"><h2 data-design-treatment="vert" data-primary="15" slot="col-1">Scanning Process / Software</h2><p slot="col-1">The following stages of the process involves aligning the various scans to create
+    a coherent, detailed 3D model using Artec Studio 17 software. The point cloud is
+    converted into a mesh, which is a solid 3D model, and the texture data captured by
+    the scanner is mapped back onto the mesh to add color, markings, and other details.
+    The final 3D model can be exported into other software platforms, such as Blender
+    and Instant Mesh, both of which are open-source.</p>
+
+    <p ="true"="" slot="col-1">To optimize the model for web use, it must be reduced significantly in size. To
+    achieve this, the polygon count is reduced using Instant Mesh, and the resulting
+    low-polygon model is unwrapped, and the texture and additional details are added
+    through a process called “baking” onto the model using normal mapping. This is a
+    commonly used technique in film and video game production to reduce file sizes, processing
+    power, and other resources required.</p>
+
+ <media-image citation="3D scanner and software shown scanning an ODL coffee mug." accent-color="grey" size="wide" offset="none" slot="col-2" source="https://bones.courses.science.psu.edu/assets/images/scanning-page-images/scanner-odl.jpg" card box></media-image>
+
 
 
 

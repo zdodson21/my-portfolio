@@ -203,6 +203,14 @@
             "type": "image/png",
             "name": "dd2d0760d9d839725d77e5ef7dfec1ad-chat-agent.png",
             "size": 75751
+          },
+          {
+            "path": "/home/zdodson/Documents/projects/development/web-dev/my-portfolio/files/chat-control-bar.png",
+            "fullUrl": "//home/zdodson/Documents/projects/development/web-dev/my-portfolio/files/chat-control-bar.png",
+            "url": "files/chat-control-bar.png",
+            "type": "image/png",
+            "name": "chat-control-bar.png",
+            "size": 4877
           }
         ]
       }

@@ -69,7 +69,7 @@
       "description": "\n    To get started, hit the edit pencil on the side.\n    Now this content is editable in place so select and delete it to get started!\n    If you need to learn more about the HAX editor or HAXcms ch",
       "metadata": {
         "created": 1721947344,
-        "updated": 1739669277,
+        "updated": 1739669537,
         "published": true,
         "hideInMenu": false,
         "locked": false,
@@ -103,7 +103,7 @@
         "created": 1739550283,
         "images": {},
         "videos": {},
-        "updated": 1739669428,
+        "updated": 1739669537,
         "published": true,
         "status": "",
         "hideInMenu": false,
@@ -112,7 +112,7 @@
     },
     {
       "id": "item-16a6f84f-cb3b-4126-989a-a71ad175bcb7",
-      "indent": 0,
+      "indent": 1,
       "location": "pages/item-16a6f84f-cb3b-4126-989a-a71ad175bcb7/index.html",
       "slug": "projects/web-development",
       "order": 0,
@@ -124,7 +124,7 @@
         "created": 1739550422,
         "images": {},
         "videos": {},
-        "updated": 1739669422,
+        "updated": 1739669537,
         "published": true,
         "status": "",
         "hideInMenu": false,
@@ -133,7 +133,7 @@
     },
     {
       "id": "item-98700c33-2d32-4b01-b406-5b6994b475e5",
-      "indent": 0,
+      "indent": 2,
       "location": "pages/item-98700c33-2d32-4b01-b406-5b6994b475e5/index.html",
       "slug": "projects/web-development/portfolio",
       "order": 1,
@@ -145,7 +145,7 @@
         "created": 1739551246,
         "images": {},
         "videos": {},
-        "updated": 1739669412,
+        "updated": 1739669537,
         "published": true,
         "status": "",
         "hideInMenu": false,
@@ -166,7 +166,7 @@
         "created": 1739551627,
         "images": [],
         "videos": [],
-        "updated": 1739622074,
+        "updated": 1739669537,
         "published": true,
         "status": ""
       }
@@ -185,7 +185,7 @@
         "created": 1739552815,
         "images": [],
         "videos": [],
-        "updated": 1739622074,
+        "updated": 1739669537,
         "published": true,
         "status": ""
       }
@@ -204,7 +204,7 @@
         "created": 1739550492,
         "images": [],
         "videos": [],
-        "updated": 1739622074,
+        "updated": 1739669537,
         "published": true,
         "status": ""
       }
@@ -223,7 +223,7 @@
         "created": 1739552458,
         "images": [],
         "videos": [],
-        "updated": 1739622074,
+        "updated": 1739669537,
         "published": true,
         "status": ""
       }
@@ -242,7 +242,7 @@
         "created": 1739552558,
         "images": [],
         "videos": [],
-        "updated": 1739622074,
+        "updated": 1739669537,
         "published": true,
         "status": ""
       }
@@ -261,28 +261,7 @@
         "created": 1739550492,
         "images": {},
         "videos": {},
-        "updated": 1739622074,
-        "published": true,
-        "status": "",
-        "hideInMenu": false,
-        "readtime": 1
-      }
-    },
-    {
-      "id": "item-6c66e23b-d6f5-45f0-b9ac-37be74b25125",
-      "indent": 0,
-      "location": "pages/item-6c66e23b-d6f5-45f0-b9ac-37be74b25125/index.html",
-      "slug": "projects/graphic-design-&amp;-visual-arts",
-      "order": 1,
-      "parent": "item-4b3d6e54-0add-4275-95ae-1077dead1de8",
-      "title": "Graphic Design &amp; Visual Arts",
-      "description": "The ​following ​page(s) describe various graphic design &amp; visual arts related projects I have completed.\n",
-      "metadata": {
-        "locked": false,
-        "created": 1739552297,
-        "images": {},
-        "videos": {},
-        "updated": 1739669452,
+        "updated": 1739669537,
         "published": true,
         "status": "",
         "hideInMenu": false,
@@ -291,11 +270,11 @@
     },
     {
       "id": "item-41a376db-578f-496a-bab7-144719f06027",
-      "indent": 0,
+      "indent": 2,
       "location": "pages/item-41a376db-578f-496a-bab7-144719f06027/index.html",
       "slug": "projects/graphic-design-&amp;-visual-arts/wynncraft-physical-collection",
       "order": 0,
-      "parent": "item-6c66e23b-d6f5-45f0-b9ac-37be74b25125",
+      "parent": "item-d9922b05-f932-4c23-8124-a1dcceb8ed72",
       "title": "Wynncraft Physical Collection",
       "description": "Wynncraft ​is ​a ​Minecraft ​server that creates an MMORPG experience in Minecraft, with a custom texture pack, soundtrack, quests, and more. Unfortunately, due to it being a ",
       "metadata": {
@@ -303,7 +282,7 @@
         "created": 1739552384,
         "images": {},
         "videos": {},
-        "updated": 1739666952,
+        "updated": 1739669537,
         "published": true,
         "status": "",
         "hideInMenu": false,
@@ -426,11 +405,11 @@
     },
     {
       "id": "item-4fba84ac-ce03-472d-a22c-f3795e48ed46",
-      "indent": 0,
+      "indent": 2,
       "location": "pages/item-4fba84ac-ce03-472d-a22c-f3795e48ed46/index.html",
       "slug": "projects/graphic-design-&amp;-visual-arts/other",
       "order": 1,
-      "parent": "item-6c66e23b-d6f5-45f0-b9ac-37be74b25125",
+      "parent": "item-d9922b05-f932-4c23-8124-a1dcceb8ed72",
       "title": "Other",
       "description": "A ​collection ​of ​smaller ​projects ​that don't ​need ​their ​own ​page:\nSuperliminal ",
       "metadata": {
@@ -438,7 +417,7 @@
         "created": 1739552384,
         "images": {},
         "videos": {},
-        "updated": 1739624529,
+        "updated": 1739669537,
         "published": true,
         "status": "",
         "hideInMenu": false,
@@ -484,7 +463,7 @@
       "indent": 0,
       "location": "pages/item-8c7e8390-d20d-4734-8f2a-6deb5ed2a972/index.html",
       "slug": "education",
-      "order": 3,
+      "order": 4,
       "parent": null,
       "title": "Education",
       "description": "Penn State University (University Park, PA)\nB.S. ​Enterprise ​Technology ​Integration\nNotable ​Classes:\nIST ​256 ​- ​Programming ​for ​the ​WebIST ​301 ​- ​Information ​&amp; OrganizationsIST ​302 - ",
@@ -493,7 +472,7 @@
         "created": 1739550283,
         "images": {},
         "videos": {},
-        "updated": 1739622074,
+        "updated": 1739669537,
         "published": true,
         "status": "",
         "hideInMenu": false,
@@ -505,7 +484,7 @@
       "indent": 0,
       "location": "pages/item-f17dfbab-b156-4db6-9391-1d9c70d75643/index.html",
       "slug": "professional-experience",
-      "order": 2,
+      "order": 3,
       "parent": null,
       "title": "Professional Experience",
       "description": "Web ​Development ​Learning ​Assistant ​(August ​- ​December 2024)\nJunior ​Front-End ​Developer ​(Internship) (May - August 2024)\n",
@@ -514,7 +493,7 @@
         "created": 1739550328,
         "images": {},
         "videos": {},
-        "updated": 1739645928,
+        "updated": 1739669537,
         "published": true,
         "status": "",
         "hideInMenu": false,
@@ -526,7 +505,7 @@
       "indent": 0,
       "location": "pages/item-368486a4-936f-4964-bc27-063a540e743a/index.html",
       "slug": "external-links",
-      "order": 4,
+      "order": 5,
       "parent": null,
       "title": "External Links",
       "description": "GitHub ProfileLinkedIn ​Profile\n",
@@ -535,11 +514,28 @@
         "created": 1739551108,
         "images": {},
         "videos": {},
-        "updated": 1739622074,
+        "updated": 1739669537,
         "published": true,
         "status": "",
         "hideInMenu": false,
         "readtime": 1
+      }
+    },
+    {
+      "id": "item-d9922b05-f932-4c23-8124-a1dcceb8ed72",
+      "indent": 1,
+      "location": "pages/item-d9922b05-f932-4c23-8124-a1dcceb8ed72/index.html",
+      "slug": "projects/graphic-design-and-visual-arts",
+      "order": 1,
+      "parent": "item-4b3d6e54-0add-4275-95ae-1077dead1de8",
+      "title": "Graphic Design and Visual Arts",
+      "description": "",
+      "metadata": {
+        "locked": false,
+        "created": 1739669537,
+        "images": [],
+        "videos": [],
+        "updated": 1739669537
       }
     }
   ]

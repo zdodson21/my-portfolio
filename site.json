@@ -251,6 +251,14 @@
             "type": "image/png",
             "name": "chat-suggestion.png",
             "size": 6284
+          },
+          {
+            "path": "/home/zdodson/Documents/projects/development/web-dev/my-portfolio/files/Full-Screen.png",
+            "fullUrl": "//home/zdodson/Documents/projects/development/web-dev/my-portfolio/files/Full-Screen.png",
+            "url": "files/Full-Screen.png",
+            "type": "image/png",
+            "name": "Full-Screen.png",
+            "size": 66080
           }
         ]
       }

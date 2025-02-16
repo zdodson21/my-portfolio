@@ -357,7 +357,7 @@
     },
     {
       "id": "item-9e078a2e-000b-4f21-b289-06ee548a11f2",
-      "indent": 1,
+      "indent": 0,
       "location": "pages/item-9e078a2e-000b-4f21-b289-06ee548a11f2/index.html",
       "slug": "projects/open-source-contributions",
       "order": 3,
@@ -369,7 +369,7 @@
         "created": 1739550492,
         "images": {},
         "videos": {},
-        "updated": 1739669537,
+        "updated": 1739740224,
         "published": true,
         "status": "",
         "hideInMenu": false,

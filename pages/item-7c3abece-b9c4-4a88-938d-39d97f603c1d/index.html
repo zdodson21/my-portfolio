@@ -35,6 +35,7 @@
 
 
 
+
 <p slot="col-1" data-text-align="left" role="textbox">The ​overhead ​chat-agent web ​component, ​housing ​numerous other ​web ​components ​inside ​of ​it. Overall ​this component ​doesn't ​have ​much ​functionality, but ​it ​does ​respond ​to ​visual ​changes ​set ​by ​other ​components:</p><ul slot="col-1" data-text-align="left" role="textbox"><li>Handles ​full ​screen ​functionality, ​changing ​the ​appearance ​of ​the ​chat agent ​to ​take ​up ​100% of ​the ​available ​vertical ​screen ​space.</li><li slot="col-1">Shows ​and ​hides ​the ​chat interface, while ​the ​chat button ​will ​always ​be ​visible ​if the ​interface ​is ​not ​visible. ​The ​chat button ​will ​hide ​if ​the ​chat interface is ​set ​to ​take ​up ​the ​full vertical ​screen ​space.</li></ul></grid-plate>
 <p><br></p>
 <grid-plate disable-responsive layout="1-1" data-text-align="center">
@@ -45,6 +46,7 @@
 
 
 <media-image source="files/chat-button.png" slot="col-2" accent-color="grey" size="wide" offset="none" data-width="25" data-float-position="center" data-margin="center" caption="Chat Button Web Component" modal-title="Chat Button Web Component" _has-caption></media-image>
+
 
 
 
@@ -99,6 +101,7 @@
 
 
 
+
 <h2 slot="col-1" id="header-9f6f83de-b53c-918a-eb5b-7da0a27b1bcd"><a href="https://github.com/haxtheweb/webcomponents/blob/master/elements/chat-agent/lib/chat-control-bar.js" target="_blank">Chat ​Control ​Bar</a></h2><p slot="col-1" data-text-align="left">Handles numerous ​functions, ​in ​order: ​Downloading ​chat ​log, ​restarting ​chat session, ​toggling ​data ​collection, ​toggling ​developer mode, ​toggle ​full ​screen ​mode, ​toggling visibility ​(when ​in ​full ​screen ​mode).</p></grid-plate>
 <p><br></p>
 <grid-plate disable-responsive layout="1-1" data-text-align="center">
@@ -131,6 +134,7 @@
 
 
 
+
 <h2 slot="col-1" id="header-503c8609-1f40-9673-cedc-c2163cf61670"><a href="https://github.com/haxtheweb/webcomponents/blob/master/elements/chat-agent/lib/chat-developer-panel.js" target="_blank">Chat ​Developer ​Panel</a></h2><div><br></div><p slot="col-1" data-text-align="left">Provides ​various ​developer ​features, ​such ​as ​printing ​the ​chat ​log ​to ​the ​browser console, ​downloading ​the ​chat ​log ​as ​a ​.json ​file, ​and ​switching both ​the ​back-end ​AI ​model ​and ​the ​context ​used ​to ​answer ​questions.</p></grid-plate>
 <p><br></p>
 <grid-plate disable-responsive layout="1-1" data-text-align="center">
@@ -138,6 +142,7 @@
     
 
  <media-image accent-color="grey" size="wide" offset="none" slot="col-2" source="files/chat-input.png" caption="Chat Input Web Component" modal-title="Chat Input Web Component" _has-caption></media-image>
+
 
 
 
@@ -195,6 +200,7 @@
 
 
 
+
 <h2 slot="col-1" id="header-f1f25c51-989c-6098-24c7-d42f5815f669"><a href="https://github.com/haxtheweb/webcomponents/blob/master/elements/chat-agent/lib/chat-interface.js" target="_blank">Chat ​Interface</a></h2><p slot="col-1" data-text-align="left">Chat ​Interface ​is ​the ​main ​window ​that ​will ​be ​used to ​interact with ​the ​chat ​agent ​and ​its many ​features. ​It ​houses ​the ​following ​components ​within ​it, ​handling ​many ​styling ​aspects ​of the ​child ​components:</p><ul slot="col-1" data-text-align="left"><li>Chat ​Control ​Bar</li><li>Chat ​Developer ​Panel ​(if ​enabled ​in ​control ​bar)</li><li slot="col-1">Chat ​Message ​(displayed ​from ​chat ​log ​using ​array ​mapping)</li><li slot="col-1">Chat ​Input</li></ul></grid-plate>
 <p><br></p>
 <grid-plate disable-responsive layout="1-1" data-text-align="center">
@@ -227,13 +233,15 @@
 
 
 
-<h2 slot="col-1" id="header-1fea3ea8-3d18-c98b-cc3e-1cd79ed7c7b2">Chat ​Message</h2><p slot="col-1" data-text-align="left">Chat ​message ​will ​display ​the ​message ​it ​is ​assigned from ​the ​chat ​log, ​while ​ensuring ​proper ​formatting ​according ​to ​who ​sent ​the ​message, ​using ​a ​hat ​image ​for ​Merlin ​(the name for ​the ​AI), ​or ​an ​RPG ​character for the ​user ​(RPG character is ​generated ​using ​the user's ​username). ​If ​the ​message ​is ​sent ​by ​Merlin, chat ​suggestions will ​be ​displayed ​as ​well.</p></grid-plate>
+
+<h2 slot="col-1" id="header-1fea3ea8-3d18-c98b-cc3e-1cd79ed7c7b2"><a href="https://github.com/haxtheweb/webcomponents/blob/master/elements/chat-agent/lib/chat-message.js" target="_blank">Chat ​Message</a></h2><p slot="col-1" data-text-align="left">Chat ​message ​will ​display ​the ​message ​it ​is ​assigned from ​the ​chat ​log, ​while ​ensuring ​proper ​formatting ​according ​to ​who ​sent ​the ​message, ​using ​a ​hat ​image ​for ​Merlin ​(the name for ​the ​AI), ​or ​an ​RPG ​character for the ​user ​(RPG character is ​generated ​using ​the user's ​username). ​If ​the ​message ​is ​sent ​by ​Merlin, chat ​suggestions will ​be ​displayed ​as ​well.</p></grid-plate>
 <p><br></p>
 <grid-plate disable-responsive layout="1-1" data-text-align="center">
 
     
 
  <media-image accent-color="grey" size="wide" offset="none" slot="col-2" source="files/chat-suggestion.png" caption="Chat Suggestion Web Component" modal-title="Chat Suggestion Web Component" _has-caption></media-image>
+
 
 
 
@@ -269,6 +277,7 @@
 
 
 
+
 <h2 slot="col-1" id="header-441cb706-0e26-2648-7299-c8dd07f25858">Chat ​Agent ​(Full Screen ​Mode)</h2><p slot="col-1" data-text-align="left">Full ​screen ​mode ​provides the ​following changes:</p><ul slot="col-1" data-text-align="left" role="textbox"><li>Hides ​the ​chat-button ​component ​when ​visible, ​can ​be ​hidden ​by ​pressing ​the ​"minus" ​button ​on the ​right ​side ​of ​the ​chat ​control ​bar.</li><li slot="col-1">More ​visible ​messages on ​screen</li><li slot="col-1">Conforms ​to ​the ​right ​side ​of ​the ​screen while ​forcing ​website ​content ​to ​appear ​to ​the ​left ​of ​it. Improves ​visibility of ​website ​content ​by ​no ​longer ​covering ​the content ​with ​a ​button ​and ​interface.</li><li slot="col-1">CSS ​media ​queries ensure ​full ​screen ​mode ​remains visually ​appealing ​on ​various screen ​and ​window sizes.</li></ul></grid-plate>
 <p><br></p>
 <grid-plate disable-responsive layout="1-2" data-text-align="center">
@@ -290,4 +299,7 @@
 
 
 
+
 <h2 slot="col-1" id="header-a86f13e3-25da-0945-8755-cd387028c6e2">Chat ​Log</h2><div><br></div><p slot="col-1" data-text-align="left" role="textbox">While ​not ​a ​component, ​the ​chat ​log ​(located ​in ​the ​<a href="https://github.com/haxtheweb/webcomponents/blob/master/elements/chat-agent/lib/chat-agent-store.js" target="_blank">store</a>) plays ​a ​vital ​role ​in ​the ​functionality ​of ​chat-agent. ​It ​enables ​message ​rendering, message ​history, chat ​saving, ​and ​in ​theory ​could ​be ​used ​as ​context ​for ​an AI ​back-end ​to ​answer ​questions.</p></grid-plate>
+<p><br></p>
+<p>GitHub &#8203;pull requests &#8203;can &#8203;be &#8203;viewed &#8203;under &#8203;the <i>​Open Source Contributions</i> page.</p>

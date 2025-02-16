@@ -211,6 +211,14 @@
             "type": "image/png",
             "name": "chat-control-bar.png",
             "size": 4877
+          },
+          {
+            "path": "/home/zdodson/Documents/projects/development/web-dev/my-portfolio/files/chat-developer-panel.png",
+            "fullUrl": "//home/zdodson/Documents/projects/development/web-dev/my-portfolio/files/chat-developer-panel.png",
+            "url": "files/chat-developer-panel.png",
+            "type": "image/png",
+            "name": "chat-developer-panel.png",
+            "size": 16328
           }
         ]
       }

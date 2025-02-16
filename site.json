@@ -402,6 +402,14 @@
             "type": "image/png",
             "name": "CD-Label-Wynncraft-Game-Soundtrack-Disc.png",
             "size": 299219
+          },
+          {
+            "path": "/home/zdodson/Documents/projects/development/web-dev/my-portfolio/files/Ranks-Advert-Slip.png",
+            "fullUrl": "//home/zdodson/Documents/projects/development/web-dev/my-portfolio/files/Ranks-Advert-Slip.png",
+            "url": "files/Ranks-Advert-Slip.png",
+            "type": "image/png",
+            "name": "Ranks-Advert-Slip.png",
+            "size": 248186
           }
         ]
       }

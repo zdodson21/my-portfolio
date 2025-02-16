@@ -179,6 +179,14 @@
             "type": "image/png",
             "name": "chat-agent.png",
             "size": 81207
+          },
+          {
+            "path": "/home/zdodson/Documents/projects/development/web-dev/my-portfolio/files/chat-button.png",
+            "fullUrl": "//home/zdodson/Documents/projects/development/web-dev/my-portfolio/files/chat-button.png",
+            "url": "files/chat-button.png",
+            "type": "image/png",
+            "name": "chat-button.png",
+            "size": 4893
           }
         ]
       }

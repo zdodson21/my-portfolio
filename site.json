@@ -154,21 +154,23 @@
     },
     {
       "id": "item-7c3abece-b9c4-4a88-938d-39d97f603c1d",
-      "indent": 2,
+      "indent": 0,
       "location": "pages/item-7c3abece-b9c4-4a88-938d-39d97f603c1d/index.html",
       "slug": "projects/web-development/chat-agent-web-components",
       "order": 0,
       "parent": "item-16a6f84f-cb3b-4126-989a-a71ad175bcb7",
       "title": "Chat Agent Web Components",
-      "description": "",
+      "description": "Between &#8203;May &#8203;- &#8203;August &#8203;of &#8203;2024 I &#8203;created &#8203;numerous &#8203;web &#8203;components &#8203;for &#8203;HAXTheWeb &#8203;(now &#8203;HAXLabs). These &#8203;web",
       "metadata": {
         "locked": false,
         "created": 1739551627,
-        "images": [],
-        "videos": [],
-        "updated": 1739669537,
+        "images": {},
+        "videos": {},
+        "updated": 1739671090,
         "published": true,
-        "status": ""
+        "status": "",
+        "hideInMenu": false,
+        "readtime": 1
       }
     },
     {

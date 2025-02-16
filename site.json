@@ -187,6 +187,14 @@
             "type": "image/png",
             "name": "chat-button.png",
             "size": 4893
+          },
+          {
+            "path": "/home/zdodson/Documents/projects/development/web-dev/my-portfolio/files/ff69f160195b7143c16c1f066a9201ce-chat-agent.png",
+            "fullUrl": "//home/zdodson/Documents/projects/development/web-dev/my-portfolio/files/ff69f160195b7143c16c1f066a9201ce-chat-agent.png",
+            "url": "files/ff69f160195b7143c16c1f066a9201ce-chat-agent.png",
+            "type": "image/png",
+            "name": "ff69f160195b7143c16c1f066a9201ce-chat-agent.png",
+            "size": 75562
           }
         ]
       }

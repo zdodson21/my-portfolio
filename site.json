@@ -194,21 +194,23 @@
     },
     {
       "id": "item-fc929f86-a2f9-4cac-8dbe-327b1eb1705e",
-      "indent": 1,
+      "indent": 0,
       "location": "pages/item-fc929f86-a2f9-4cac-8dbe-327b1eb1705e/index.html",
       "slug": "projects/technology-integration",
       "order": 2,
       "parent": "item-4b3d6e54-0add-4275-95ae-1077dead1de8",
       "title": "Technology Integration",
-      "description": "",
+      "description": "The &#8203;following &#8203;pages &#8203;showcase &#8203;technology &#8203;integration &#8203;projects I &#8203;have &#8203;completed &#8203;or &#8203;maintain.\n",
       "metadata": {
         "locked": false,
         "created": 1739550492,
-        "images": [],
-        "videos": [],
-        "updated": 1739669537,
+        "images": {},
+        "videos": {},
+        "updated": 1739669950,
         "published": true,
-        "status": ""
+        "status": "",
+        "hideInMenu": false,
+        "readtime": 1
       }
     },
     {

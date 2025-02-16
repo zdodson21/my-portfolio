@@ -211,21 +211,23 @@
     },
     {
       "id": "item-279faec4-5529-48c6-87f2-19acc288bed5",
-      "indent": 2,
+      "indent": 0,
       "location": "pages/item-279faec4-5529-48c6-87f2-19acc288bed5/index.html",
       "slug": "projects/technology-integration/home-technology-integration",
       "order": 0,
       "parent": "item-fc929f86-a2f9-4cac-8dbe-327b1eb1705e",
       "title": "Home Technology Integration",
-      "description": "",
+      "description": "Details will &#8203;be &#8203;added &#8203;soon...\n",
       "metadata": {
         "locked": false,
         "created": 1739552458,
-        "images": [],
-        "videos": [],
-        "updated": 1739669537,
+        "images": {},
+        "videos": {},
+        "updated": 1739669811,
         "published": true,
-        "status": ""
+        "status": "",
+        "hideInMenu": false,
+        "readtime": 1
       }
     },
     {
@@ -289,7 +291,7 @@
       "id": "item-41a376db-578f-496a-bab7-144719f06027",
       "indent": 2,
       "location": "pages/item-41a376db-578f-496a-bab7-144719f06027/index.html",
-      "slug": "projects/graphic-design-&amp;-visual-arts/wynncraft-physical-collection",
+      "slug": "projects/graphic-design-and-visual-arts/wynncraft-physical-collection",
       "order": 0,
       "parent": "item-d9922b05-f932-4c23-8124-a1dcceb8ed72",
       "title": "Wynncraft Physical Collection",
@@ -424,7 +426,7 @@
       "id": "item-4fba84ac-ce03-472d-a22c-f3795e48ed46",
       "indent": 2,
       "location": "pages/item-4fba84ac-ce03-472d-a22c-f3795e48ed46/index.html",
-      "slug": "projects/graphic-design-&amp;-visual-arts/other",
+      "slug": "projects/graphic-design-and-visual-arts/other",
       "order": 1,
       "parent": "item-d9922b05-f932-4c23-8124-a1dcceb8ed72",
       "title": "Other",

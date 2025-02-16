@@ -227,6 +227,14 @@
             "type": "image/png",
             "name": "chat-input.png",
             "size": 8230
+          },
+          {
+            "path": "/home/zdodson/Documents/projects/development/web-dev/my-portfolio/files/chat-interface.png",
+            "fullUrl": "//home/zdodson/Documents/projects/development/web-dev/my-portfolio/files/chat-interface.png",
+            "url": "files/chat-interface.png",
+            "type": "image/png",
+            "name": "chat-interface.png",
+            "size": 56460
           }
         ]
       }

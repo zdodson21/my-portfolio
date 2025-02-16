@@ -76,7 +76,17 @@
         "readtime": 1,
         "videos": {},
         "images": {},
-        "status": ""
+        "status": "",
+        "files": [
+          {
+            "path": "/home/zdodson/Documents/projects/development/web-dev/my-portfolio/files/Suit-Pic.png",
+            "fullUrl": "//home/zdodson/Documents/projects/development/web-dev/my-portfolio/files/Suit-Pic.png",
+            "url": "files/Suit-Pic.png",
+            "type": "image/png",
+            "name": "Suit-Pic.png",
+            "size": 699408
+          }
+        ]
       }
     },
     {

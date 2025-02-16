@@ -394,6 +394,14 @@
             "type": "image/png",
             "name": "Connection-Instructions---Wynncraft.png",
             "size": 330677
+          },
+          {
+            "path": "/home/zdodson/Documents/projects/development/web-dev/my-portfolio/files/CD-Label-Wynncraft-Game-Soundtrack-Disc.png",
+            "fullUrl": "//home/zdodson/Documents/projects/development/web-dev/my-portfolio/files/CD-Label-Wynncraft-Game-Soundtrack-Disc.png",
+            "url": "files/CD-Label-Wynncraft-Game-Soundtrack-Disc.png",
+            "type": "image/png",
+            "name": "CD-Label-Wynncraft-Game-Soundtrack-Disc.png",
+            "size": 299219
           }
         ]
       }
